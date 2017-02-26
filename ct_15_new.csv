@@ -1,0 +1,1705 @@
+source,target,weight,s_country_name,to_country_name
+2,2,132,Egypt,Egypt
+2,4,1,Egypt,Algeria
+2,19,1,Egypt,Belgium
+2,146,1,Egypt,Saudi Arabia
+2,173,1,Egypt,Tunisia
+2,183,1,Egypt,United Arab Emirates
+3,3,47,Albania,Albania
+3,13,1,Albania,Azerbaijan
+3,19,1,Albania,Belgium
+3,28,2,Albania,Bulgaria
+3,37,1,Albania,Croatia
+3,49,1,Albania,Finland
+3,53,2,Albania,Georgia
+3,56,1,Albania,Greece
+3,71,1,Albania,Iran
+3,74,1,Albania,Israel
+3,100,7,Albania,Macedonia
+3,141,1,Albania,Russia
+3,154,1,Albania,Slovakia
+3,188,1,Albania,Cyprus
+3,208,1,Albania,Faroe Island
+4,2,1,Algeria,Egypt
+4,4,75,Algeria,Algeria
+4,99,1,Algeria,Luxembourg
+4,107,1,Algeria,Morocco
+4,146,2,Algeria,Saudi Arabia
+4,173,1,Algeria,Tunisia
+9,3,2,Argentina,Albania
+9,9,239,Argentina,Argentina
+9,26,7,Argentina,Brazil
+9,33,16,Argentina,Chile
+9,34,1,Argentina,China
+9,44,7,Argentina,Ecuador
+9,50,1,Argentina,France
+9,56,9,Argentina,Greece
+9,67,1,Argentina,India
+9,75,3,Argentina,Italy
+9,77,1,Argentina,Japan
+9,81,1,Argentina,Kazakhstan
+9,83,4,Argentina,Colombia
+9,110,18,Argentina,Mexico
+9,133,3,Argentina,Peru
+9,136,2,Argentina,Portugal
+9,140,2,Argentina,Romania
+9,148,1,Argentina,Switzerland
+9,157,9,Argentina,Spain
+9,174,1,Argentina,Turkey
+9,179,18,Argentina,Uruguay
+9,182,2,Argentina,Venezuela
+9,183,1,Argentina,United Arab Emirates
+9,184,2,Argentina,United States
+9,188,1,Argentina,Cyprus
+9,189,2,Argentina,England
+9,190,1,Argentina,Scotland
+10,10,56,Armenia,Armenia
+10,18,2,Armenia,Belarus
+10,19,1,Armenia,Belgium
+10,24,1,Armenia,Bosnia-Herzegovina
+10,28,1,Armenia,Bulgaria
+10,53,5,Armenia,Georgia
+10,71,1,Armenia,Iran
+10,100,1,Armenia,Macedonia
+10,112,2,Armenia,Moldova
+10,135,1,Armenia,Poland
+10,141,13,Armenia,Russia
+10,154,2,Armenia,Slovakia
+10,177,3,Armenia,Ukraine
+12,12,32,Australia,Australia
+12,19,1,Australia,Belgium
+12,24,1,Australia,Bosnia-Herzegovina
+12,34,2,Australia,China
+12,36,1,Australia,Costa Rica
+12,39,2,Australia,Denmark
+12,56,2,Australia,Greece
+12,71,1,Australia,Iran
+12,72,1,Australia,Ireland
+12,77,2,Australia,Japan
+12,81,1,Australia,Kazakhstan
+12,87,4,Australia,"Korea, South"
+12,110,1,Australia,Mexico
+12,112,1,Australia,Moldova
+12,122,2,Australia,Netherlands
+12,125,1,Australia,Norway
+12,127,1,Australia,Austria
+12,136,1,Australia,Portugal
+12,148,1,Australia,Switzerland
+12,157,1,Australia,Spain
+12,159,2,Australia,South Africa
+12,167,3,Australia,Thailand
+12,178,1,Australia,Hungary
+12,183,1,Australia,United Arab Emirates
+12,189,2,Australia,England
+13,3,2,Azerbaijan,Albania
+13,13,81,Azerbaijan,Azerbaijan
+13,26,1,Azerbaijan,Brazil
+13,36,1,Azerbaijan,Costa Rica
+13,37,1,Azerbaijan,Croatia
+13,56,2,Azerbaijan,Greece
+13,71,1,Azerbaijan,Iran
+13,74,1,Azerbaijan,Israel
+13,92,2,Azerbaijan,Latvia
+13,106,1,Azerbaijan,Malta
+13,120,1,Azerbaijan,New Zealand
+13,122,2,Azerbaijan,Netherlands
+13,136,1,Azerbaijan,Portugal
+13,140,3,Azerbaijan,Romania
+13,141,1,Azerbaijan,Russia
+13,155,1,Azerbaijan,Slovenia
+13,172,1,Azerbaijan,Czech Republic
+13,174,4,Azerbaijan,Turkey
+13,177,3,Azerbaijan,Ukraine
+13,188,1,Azerbaijan,Cyprus
+13,218,1,Azerbaijan,Hongkong
+18,10,1,Belarus,Armenia
+18,18,92,Belarus,Belarus
+18,24,1,Belarus,Bosnia-Herzegovina
+18,34,1,Belarus,China
+18,37,1,Belarus,Croatia
+18,40,1,Belarus,Germany
+18,53,1,Belarus,Georgia
+18,56,1,Belarus,Greece
+18,74,2,Belarus,Israel
+18,81,3,Belarus,Kazakhstan
+18,92,4,Belarus,Latvia
+18,98,1,Belarus,Lithuania
+18,112,1,Belarus,Moldova
+18,135,2,Belarus,Poland
+18,141,3,Belarus,Russia
+18,154,2,Belarus,Slovakia
+18,174,2,Belarus,Turkey
+18,177,6,Belarus,Ukraine
+18,178,1,Belarus,Hungary
+18,215,3,Belarus,Serbia
+19,13,1,Belgium,Azerbaijan
+19,19,91,Belgium,Belgium
+19,34,3,Belgium,China
+19,39,3,Belgium,Denmark
+19,40,1,Belgium,Germany
+19,50,8,Belgium,France
+19,56,3,Belgium,Greece
+19,74,2,Belgium,Israel
+19,75,4,Belgium,Italy
+19,99,8,Belgium,Luxembourg
+19,107,4,Belgium,Morocco
+19,110,1,Belgium,Mexico
+19,122,11,Belgium,Netherlands
+19,135,1,Belgium,Poland
+19,136,3,Belgium,Portugal
+19,137,3,Belgium,Qatar
+19,147,2,Belgium,Sweden
+19,148,2,Belgium,Switzerland
+19,157,7,Belgium,Spain
+19,174,6,Belgium,Turkey
+19,178,2,Belgium,Hungary
+19,184,2,Belgium,United States
+19,189,8,Belgium,England
+19,190,1,Belgium,Scotland
+19,215,2,Belgium,Serbia
+24,3,2,Bosnia-Herzegovina,Albania
+24,10,2,Bosnia-Herzegovina,Armenia
+24,24,220,Bosnia-Herzegovina,Bosnia-Herzegovina
+24,28,1,Bosnia-Herzegovina,Bulgaria
+24,34,1,Bosnia-Herzegovina,China
+24,37,13,Bosnia-Herzegovina,Croatia
+24,47,1,Bosnia-Herzegovina,Estonia
+24,49,1,Bosnia-Herzegovina,Finland
+24,56,3,Bosnia-Herzegovina,Greece
+24,71,1,Bosnia-Herzegovina,Iran
+24,73,1,Bosnia-Herzegovina,Iceland
+24,74,2,Bosnia-Herzegovina,Israel
+24,77,1,Bosnia-Herzegovina,Japan
+24,81,1,Bosnia-Herzegovina,Kazakhstan
+24,87,1,Bosnia-Herzegovina,"Korea, South"
+24,99,1,Bosnia-Herzegovina,Luxembourg
+24,100,2,Bosnia-Herzegovina,Macedonia
+24,107,1,Bosnia-Herzegovina,Morocco
+24,112,1,Bosnia-Herzegovina,Moldova
+24,125,1,Bosnia-Herzegovina,Norway
+24,127,1,Bosnia-Herzegovina,Austria
+24,148,1,Bosnia-Herzegovina,Switzerland
+24,154,1,Bosnia-Herzegovina,Slovakia
+24,155,3,Bosnia-Herzegovina,Slovenia
+24,172,1,Bosnia-Herzegovina,Czech Republic
+24,174,4,Bosnia-Herzegovina,Turkey
+24,178,1,Bosnia-Herzegovina,Hungary
+24,188,1,Bosnia-Herzegovina,Cyprus
+24,215,31,Bosnia-Herzegovina,Serbia
+26,3,1,Brazil,Albania
+26,9,3,Brazil,Argentina
+26,19,3,Brazil,Belgium
+26,26,177,Brazil,Brazil
+26,28,3,Brazil,Bulgaria
+26,33,1,Brazil,Chile
+26,34,10,Brazil,China
+26,40,3,Brazil,Germany
+26,50,6,Brazil,France
+26,56,2,Brazil,Greece
+26,67,3,Brazil,India
+26,75,5,Brazil,Italy
+26,77,12,Brazil,Japan
+26,81,1,Brazil,Kazakhstan
+26,87,7,Brazil,"Korea, South"
+26,98,1,Brazil,Lithuania
+26,110,2,Brazil,Mexico
+26,127,2,Brazil,Austria
+26,135,1,Brazil,Poland
+26,136,21,Brazil,Portugal
+26,137,1,Brazil,Qatar
+26,141,2,Brazil,Russia
+26,146,8,Brazil,Saudi Arabia
+26,147,1,Brazil,Sweden
+26,157,4,Brazil,Spain
+26,167,4,Brazil,Thailand
+26,174,12,Brazil,Turkey
+26,177,3,Brazil,Ukraine
+26,179,1,Brazil,Uruguay
+26,183,10,Brazil,United Arab Emirates
+26,184,6,Brazil,United States
+26,189,2,Brazil,England
+26,215,1,Brazil,Serbia
+28,2,1,Bulgaria,Egypt
+28,3,2,Bulgaria,Albania
+28,10,2,Bulgaria,Armenia
+28,13,1,Bulgaria,Azerbaijan
+28,19,1,Bulgaria,Belgium
+28,28,121,Bulgaria,Bulgaria
+28,34,1,Bulgaria,China
+28,37,1,Bulgaria,Croatia
+28,40,1,Bulgaria,Germany
+28,50,1,Bulgaria,France
+28,56,4,Bulgaria,Greece
+28,71,1,Bulgaria,Iran
+28,81,2,Bulgaria,Kazakhstan
+28,122,1,Bulgaria,Netherlands
+28,125,1,Bulgaria,Norway
+28,135,3,Bulgaria,Poland
+28,136,1,Bulgaria,Portugal
+28,140,6,Bulgaria,Romania
+28,141,1,Bulgaria,Russia
+28,146,1,Bulgaria,Saudi Arabia
+28,148,1,Bulgaria,Switzerland
+28,155,1,Bulgaria,Slovenia
+28,157,1,Bulgaria,Spain
+28,174,6,Bulgaria,Turkey
+28,183,1,Bulgaria,United Arab Emirates
+28,188,4,Bulgaria,Cyprus
+28,189,1,Bulgaria,England
+28,190,3,Bulgaria,Scotland
+28,215,1,Bulgaria,Serbia
+33,9,7,Chile,Argentina
+33,26,3,Chile,Brazil
+33,33,63,Chile,Chile
+33,56,1,Chile,Greece
+33,75,2,Chile,Italy
+33,81,1,Chile,Kazakhstan
+33,83,2,Chile,Colombia
+33,110,6,Chile,Mexico
+33,133,4,Chile,Peru
+33,137,1,Chile,Qatar
+33,140,1,Chile,Romania
+33,147,1,Chile,Sweden
+33,157,1,Chile,Spain
+33,174,1,Chile,Turkey
+33,179,5,Chile,Uruguay
+33,183,1,Chile,United Arab Emirates
+34,9,1,China,Argentina
+34,19,2,China,Belgium
+34,26,9,China,Brazil
+34,34,168,China,China
+34,36,1,China,Costa Rica
+34,39,3,China,Denmark
+34,40,1,China,Germany
+34,75,1,China,Italy
+34,77,8,China,Japan
+34,83,1,China,Colombia
+34,87,5,China,"Korea, South"
+34,125,1,China,Norway
+34,133,2,China,Peru
+34,135,1,China,Poland
+34,136,1,China,Portugal
+34,137,2,China,Qatar
+34,140,1,China,Romania
+34,147,2,China,Sweden
+34,154,1,China,Slovakia
+34,155,2,China,Slovenia
+34,167,2,China,Thailand
+34,174,2,China,Turkey
+34,178,1,China,Hungary
+34,179,2,China,Uruguay
+34,183,2,China,United Arab Emirates
+34,215,1,China,Serbia
+36,36,91,Costa Rica,Costa Rica
+36,39,1,Costa Rica,Denmark
+36,83,1,Costa Rica,Colombia
+36,125,1,Costa Rica,Norway
+36,133,1,Costa Rica,Peru
+36,174,1,Costa Rica,Turkey
+36,179,1,Costa Rica,Uruguay
+36,184,4,Costa Rica,United States
+37,3,3,Croatia,Albania
+37,12,1,Croatia,Australia
+37,19,4,Croatia,Belgium
+37,24,16,Croatia,Bosnia-Herzegovina
+37,26,1,Croatia,Brazil
+37,28,1,Croatia,Bulgaria
+37,34,1,Croatia,China
+37,37,115,Croatia,Croatia
+37,39,1,Croatia,Denmark
+37,40,1,Croatia,Germany
+37,56,2,Croatia,Greece
+37,73,5,Croatia,Iceland
+37,74,2,Croatia,Israel
+37,75,5,Croatia,Italy
+37,81,3,Croatia,Kazakhstan
+37,87,2,Croatia,"Korea, South"
+37,98,2,Croatia,Lithuania
+37,100,4,Croatia,Macedonia
+37,106,1,Croatia,Malta
+37,112,3,Croatia,Moldova
+37,125,1,Croatia,Norway
+37,127,2,Croatia,Austria
+37,135,4,Croatia,Poland
+37,136,2,Croatia,Portugal
+37,140,2,Croatia,Romania
+37,141,1,Croatia,Russia
+37,148,5,Croatia,Switzerland
+37,153,2,Croatia,Singapore
+37,154,3,Croatia,Slovakia
+37,155,18,Croatia,Slovenia
+37,172,2,Croatia,Czech Republic
+37,174,6,Croatia,Turkey
+37,177,1,Croatia,Ukraine
+37,178,1,Croatia,Hungary
+37,188,2,Croatia,Cyprus
+37,189,1,Croatia,England
+37,190,1,Croatia,Scotland
+37,215,5,Croatia,Serbia
+39,12,1,Denmark,Australia
+39,19,3,Denmark,Belgium
+39,34,1,Denmark,China
+39,39,194,Denmark,Denmark
+39,40,5,Denmark,Germany
+39,56,2,Denmark,Greece
+39,67,1,Denmark,India
+39,73,12,Denmark,Iceland
+39,87,1,Denmark,"Korea, South"
+39,100,1,Denmark,Macedonia
+39,106,1,Denmark,Malta
+39,122,2,Denmark,Netherlands
+39,125,13,Denmark,Norway
+39,135,2,Denmark,Poland
+39,141,2,Denmark,Russia
+39,147,10,Denmark,Sweden
+39,148,2,Denmark,Switzerland
+39,157,2,Denmark,Spain
+39,174,2,Denmark,Turkey
+39,184,2,Denmark,United States
+39,188,1,Denmark,Cyprus
+39,189,5,Denmark,England
+39,190,1,Denmark,Scotland
+39,208,7,Denmark,Faroe Island
+39,215,1,Denmark,Serbia
+40,4,1,Germany,Algeria
+40,9,1,Germany,Argentina
+40,19,2,Germany,Belgium
+40,26,1,Germany,Brazil
+40,33,1,Germany,Chile
+40,34,3,Germany,China
+40,37,1,Germany,Croatia
+40,39,4,Germany,Denmark
+40,40,280,Germany,Germany
+40,49,1,Germany,Finland
+40,50,3,Germany,France
+40,56,5,Germany,Greece
+40,74,2,Germany,Israel
+40,75,7,Germany,Italy
+40,77,2,Germany,Japan
+40,87,1,Germany,"Korea, South"
+40,122,11,Germany,Netherlands
+40,125,2,Germany,Norway
+40,127,15,Germany,Austria
+40,135,9,Germany,Poland
+40,136,1,Germany,Portugal
+40,140,3,Germany,Romania
+40,141,1,Germany,Russia
+40,147,2,Germany,Sweden
+40,148,8,Germany,Switzerland
+40,154,1,Germany,Slovakia
+40,157,9,Germany,Spain
+40,172,4,Germany,Czech Republic
+40,174,11,Germany,Turkey
+40,178,5,Germany,Hungary
+40,183,1,Germany,United Arab Emirates
+40,184,4,Germany,United States
+40,189,19,Germany,England
+40,215,1,Germany,Serbia
+44,9,4,Ecuador,Argentina
+44,26,3,Ecuador,Brazil
+44,44,44,Ecuador,Ecuador
+44,83,1,Ecuador,Colombia
+44,110,4,Ecuador,Mexico
+44,133,4,Ecuador,Peru
+44,179,2,Ecuador,Uruguay
+47,18,1,Estonia,Belarus
+47,24,1,Estonia,Bosnia-Herzegovina
+47,47,66,Estonia,Estonia
+47,49,2,Estonia,Finland
+47,92,2,Estonia,Latvia
+47,98,2,Estonia,Lithuania
+47,112,1,Estonia,Moldova
+47,125,1,Estonia,Norway
+47,135,3,Estonia,Poland
+49,3,1,Finland,Albania
+49,19,1,Finland,Belgium
+49,39,2,Finland,Denmark
+49,40,1,Finland,Germany
+49,49,235,Finland,Finland
+49,56,2,Finland,Greece
+49,72,1,Finland,Ireland
+49,81,3,Finland,Kazakhstan
+49,92,2,Finland,Latvia
+49,98,2,Finland,Lithuania
+49,122,1,Finland,Netherlands
+49,125,6,Finland,Norway
+49,135,3,Finland,Poland
+49,147,8,Finland,Sweden
+49,172,1,Finland,Czech Republic
+49,174,1,Finland,Turkey
+49,184,5,Finland,United States
+49,188,1,Finland,Cyprus
+49,189,1,Finland,England
+49,190,1,Finland,Scotland
+49,215,1,Finland,Serbia
+50,2,1,France,Egypt
+50,4,2,France,Algeria
+50,12,1,France,Australia
+50,13,1,France,Azerbaijan
+50,19,23,France,Belgium
+50,34,1,France,China
+50,39,3,France,Denmark
+50,40,3,France,Germany
+50,50,118,France,France
+50,53,1,France,Georgia
+50,56,3,France,Greece
+50,67,2,France,India
+50,75,10,France,Italy
+50,99,1,France,Luxembourg
+50,107,1,France,Morocco
+50,110,1,France,Mexico
+50,122,2,France,Netherlands
+50,125,1,France,Norway
+50,136,6,France,Portugal
+50,137,3,France,Qatar
+50,140,1,France,Romania
+50,141,1,France,Russia
+50,146,1,France,Saudi Arabia
+50,147,1,France,Sweden
+50,148,2,France,Switzerland
+50,155,1,France,Slovenia
+50,157,11,France,Spain
+50,173,3,France,Tunisia
+50,174,9,France,Turkey
+50,182,1,France,Venezuela
+50,183,1,France,United Arab Emirates
+50,184,2,France,United States
+50,188,5,France,Cyprus
+50,189,27,France,England
+53,10,3,Georgia,Armenia
+53,13,2,Georgia,Azerbaijan
+53,18,1,Georgia,Belarus
+53,19,1,Georgia,Belgium
+53,53,130,Georgia,Georgia
+53,81,3,Georgia,Kazakhstan
+53,141,6,Georgia,Russia
+53,157,1,Georgia,Spain
+53,177,3,Georgia,Ukraine
+53,188,1,Georgia,Cyprus
+53,215,2,Georgia,Serbia
+54,2,1,Ghana,Egypt
+54,10,1,Ghana,Armenia
+54,19,3,Ghana,Belgium
+54,54,42,Ghana,Ghana
+54,67,1,Ghana,India
+54,94,1,Ghana,Lebanon
+54,98,1,Ghana,Lithuania
+54,107,2,Ghana,Morocco
+54,147,3,Ghana,Sweden
+54,159,1,Ghana,South Africa
+54,173,1,Ghana,Tunisia
+56,3,3,Greece,Albania
+56,4,1,Greece,Algeria
+56,9,6,Greece,Argentina
+56,10,1,Greece,Armenia
+56,13,2,Greece,Azerbaijan
+56,19,8,Greece,Belgium
+56,24,4,Greece,Bosnia-Herzegovina
+56,26,1,Greece,Brazil
+56,28,7,Greece,Bulgaria
+56,33,1,Greece,Chile
+56,34,1,Greece,China
+56,37,1,Greece,Croatia
+56,40,1,Greece,Germany
+56,50,3,Greece,France
+56,56,272,Greece,Greece
+56,67,2,Greece,India
+56,74,2,Greece,Israel
+56,75,6,Greece,Italy
+56,87,1,Greece,"Korea, South"
+56,110,2,Greece,Mexico
+56,122,2,Greece,Netherlands
+56,125,1,Greece,Norway
+56,127,1,Greece,Austria
+56,135,1,Greece,Poland
+56,136,2,Greece,Portugal
+56,141,2,Greece,Russia
+56,147,2,Greece,Sweden
+56,154,1,Greece,Slovakia
+56,155,1,Greece,Slovenia
+56,157,14,Greece,Spain
+56,174,7,Greece,Turkey
+56,178,2,Greece,Hungary
+56,179,1,Greece,Uruguay
+56,188,10,Greece,Cyprus
+56,189,2,Greece,England
+56,190,3,Greece,Scotland
+56,215,6,Greece,Serbia
+67,4,1,India,Algeria
+67,9,1,India,Argentina
+67,19,1,India,Belgium
+67,26,2,India,Brazil
+67,37,1,India,Croatia
+67,67,64,India,India
+67,75,1,India,Italy
+67,87,1,India,"Korea, South"
+67,122,1,India,Netherlands
+67,125,1,India,Norway
+67,136,1,India,Portugal
+67,140,1,India,Romania
+67,157,8,India,Spain
+67,172,1,India,Czech Republic
+67,182,1,India,Venezuela
+67,184,3,India,United States
+67,189,4,India,England
+67,190,2,India,Scotland
+67,218,1,India,Hongkong
+71,3,2,Iran,Albania
+71,10,1,Iran,Armenia
+71,37,1,Iran,Croatia
+71,40,1,Iran,Germany
+71,49,1,Iran,Finland
+71,71,379,Iran,Iran
+71,77,1,Iran,Japan
+71,112,2,Iran,Moldova
+71,137,4,Iran,Qatar
+71,140,1,Iran,Romania
+71,141,1,Iran,Russia
+71,146,1,Iran,Saudi Arabia
+71,147,1,Iran,Sweden
+71,155,1,Iran,Slovenia
+71,167,3,Iran,Thailand
+71,174,1,Iran,Turkey
+71,183,1,Iran,United Arab Emirates
+71,215,1,Iran,Serbia
+72,39,1,Ireland,Denmark
+72,72,130,Ireland,Ireland
+72,136,1,Ireland,Portugal
+72,147,1,Ireland,Sweden
+72,172,1,Ireland,Czech Republic
+72,184,3,Ireland,United States
+72,189,2,Ireland,England
+72,192,10,Ireland,Northern Ireland
+73,37,1,Iceland,Croatia
+73,39,4,Iceland,Denmark
+73,73,76,Iceland,Iceland
+73,98,1,Iceland,Lithuania
+73,125,3,Iceland,Norway
+73,147,3,Iceland,Sweden
+73,184,2,Iceland,United States
+73,215,2,Iceland,Serbia
+74,3,2,Israel,Albania
+74,13,1,Israel,Azerbaijan
+74,19,1,Israel,Belgium
+74,24,2,Israel,Bosnia-Herzegovina
+74,28,1,Israel,Bulgaria
+74,34,1,Israel,China
+74,50,1,Israel,France
+74,56,1,Israel,Greece
+74,67,1,Israel,India
+74,74,71,Israel,Israel
+74,122,1,Israel,Netherlands
+74,127,2,Israel,Austria
+74,140,6,Israel,Romania
+74,141,1,Israel,Russia
+74,147,1,Israel,Sweden
+74,148,1,Israel,Switzerland
+74,155,1,Israel,Slovenia
+74,174,2,Israel,Turkey
+74,178,2,Israel,Hungary
+74,188,1,Israel,Cyprus
+74,215,1,Israel,Serbia
+75,2,1,Italy,Egypt
+75,9,6,Italy,Argentina
+75,12,1,Italy,Australia
+75,19,1,Italy,Belgium
+75,26,6,Italy,Brazil
+75,33,4,Italy,Chile
+75,34,5,Italy,China
+75,36,1,Italy,Costa Rica
+75,37,1,Italy,Croatia
+75,39,2,Italy,Denmark
+75,40,8,Italy,Germany
+75,50,7,Italy,France
+75,56,6,Italy,Greece
+75,67,1,Italy,India
+75,75,676,Italy,Italy
+75,77,1,Italy,Japan
+75,83,1,Italy,Colombia
+75,98,1,Italy,Lithuania
+75,106,5,Italy,Malta
+75,110,6,Italy,Mexico
+75,127,2,Italy,Austria
+75,135,2,Italy,Poland
+75,136,6,Italy,Portugal
+75,140,2,Italy,Romania
+75,141,1,Italy,Russia
+75,146,2,Italy,Saudi Arabia
+75,147,1,Italy,Sweden
+75,148,5,Italy,Switzerland
+75,154,1,Italy,Slovakia
+75,155,3,Italy,Slovenia
+75,157,20,Italy,Spain
+75,167,1,Italy,Thailand
+75,174,2,Italy,Turkey
+75,177,1,Italy,Ukraine
+75,178,2,Italy,Hungary
+75,179,5,Italy,Uruguay
+75,184,5,Italy,United States
+75,188,1,Italy,Cyprus
+75,189,21,Italy,England
+75,215,2,Italy,Serbia
+77,10,1,Japan,Armenia
+77,12,1,Japan,Australia
+77,26,5,Japan,Brazil
+77,34,3,Japan,China
+77,37,1,Japan,Croatia
+77,40,2,Japan,Germany
+77,71,1,Japan,Iran
+77,77,270,Japan,Japan
+77,83,1,Japan,Colombia
+77,87,13,Japan,"Korea, South"
+77,100,1,Japan,Macedonia
+77,112,1,Japan,Moldova
+77,122,1,Japan,Netherlands
+77,127,4,Japan,Austria
+77,135,1,Japan,Poland
+77,146,1,Japan,Saudi Arabia
+77,153,2,Japan,Singapore
+77,155,1,Japan,Slovenia
+77,157,2,Japan,Spain
+77,173,1,Japan,Tunisia
+77,179,1,Japan,Uruguay
+77,183,1,Japan,United Arab Emirates
+77,184,1,Japan,United States
+77,215,1,Japan,Serbia
+81,13,1,Kazakhstan,Azerbaijan
+81,18,4,Kazakhstan,Belarus
+81,24,2,Kazakhstan,Bosnia-Herzegovina
+81,26,1,Kazakhstan,Brazil
+81,28,1,Kazakhstan,Bulgaria
+81,36,1,Kazakhstan,Costa Rica
+81,47,1,Kazakhstan,Estonia
+81,56,1,Kazakhstan,Greece
+81,77,1,Kazakhstan,Japan
+81,81,68,Kazakhstan,Kazakhstan
+81,98,1,Kazakhstan,Lithuania
+81,112,2,Kazakhstan,Moldova
+81,127,1,Kazakhstan,Austria
+81,140,2,Kazakhstan,Romania
+81,141,4,Kazakhstan,Russia
+81,146,1,Kazakhstan,Saudi Arabia
+81,159,1,Kazakhstan,South Africa
+81,167,1,Kazakhstan,Thailand
+81,172,1,Kazakhstan,Czech Republic
+81,174,2,Kazakhstan,Turkey
+81,177,4,Kazakhstan,Ukraine
+81,215,6,Kazakhstan,Serbia
+83,9,5,Colombia,Argentina
+83,26,5,Colombia,Brazil
+83,28,2,Colombia,Bulgaria
+83,34,1,Colombia,China
+83,44,2,Colombia,Ecuador
+83,75,1,Colombia,Italy
+83,83,145,Colombia,Colombia
+83,87,1,Colombia,"Korea, South"
+83,106,1,Colombia,Malta
+83,110,13,Colombia,Mexico
+83,133,10,Colombia,Peru
+83,136,1,Colombia,Portugal
+83,157,5,Colombia,Spain
+83,179,9,Colombia,Uruguay
+83,182,5,Colombia,Venezuela
+83,184,3,Colombia,United States
+87,3,1,"Korea, South",Albania
+87,12,1,"Korea, South",Australia
+87,26,6,"Korea, South",Brazil
+87,33,1,"Korea, South",Chile
+87,34,9,"Korea, South",China
+87,37,1,"Korea, South",Croatia
+87,77,8,"Korea, South",Japan
+87,83,1,"Korea, South",Colombia
+87,87,133,"Korea, South","Korea, South"
+87,135,1,"Korea, South",Poland
+87,137,4,"Korea, South",Qatar
+87,157,1,"Korea, South",Spain
+87,167,9,"Korea, South",Thailand
+87,174,1,"Korea, South",Turkey
+87,183,1,"Korea, South",United Arab Emirates
+87,184,1,"Korea, South",United States
+92,13,1,Latvia,Azerbaijan
+92,18,1,Latvia,Belarus
+92,47,1,Latvia,Estonia
+92,81,1,Latvia,Kazakhstan
+92,92,63,Latvia,Latvia
+92,98,1,Latvia,Lithuania
+92,127,1,Latvia,Austria
+92,135,2,Latvia,Poland
+92,141,2,Latvia,Russia
+92,147,1,Latvia,Sweden
+92,148,1,Latvia,Switzerland
+92,172,1,Latvia,Czech Republic
+92,177,2,Latvia,Ukraine
+92,190,1,Latvia,Scotland
+94,3,1,Lebanon,Albania
+94,10,1,Lebanon,Armenia
+94,54,2,Lebanon,Ghana
+94,94,3,Lebanon,Lebanon
+94,122,1,Lebanon,Netherlands
+94,173,2,Lebanon,Tunisia
+98,10,1,Lithuania,Armenia
+98,18,2,Lithuania,Belarus
+98,47,1,Lithuania,Estonia
+98,53,1,Lithuania,Georgia
+98,74,1,Lithuania,Israel
+98,81,1,Lithuania,Kazakhstan
+98,92,1,Lithuania,Latvia
+98,98,18,Lithuania,Lithuania
+98,135,2,Lithuania,Poland
+98,141,1,Lithuania,Russia
+98,154,1,Lithuania,Slovakia
+98,174,2,Lithuania,Turkey
+98,188,1,Lithuania,Cyprus
+99,19,1,Luxembourg,Belgium
+99,24,2,Luxembourg,Bosnia-Herzegovina
+99,37,1,Luxembourg,Croatia
+99,99,52,Luxembourg,Luxembourg
+99,140,1,Luxembourg,Romania
+99,157,1,Luxembourg,Spain
+100,3,2,Macedonia,Albania
+100,10,2,Macedonia,Armenia
+100,24,2,Macedonia,Bosnia-Herzegovina
+100,28,1,Macedonia,Bulgaria
+100,56,1,Macedonia,Greece
+100,81,1,Macedonia,Kazakhstan
+100,100,27,Macedonia,Macedonia
+100,110,1,Macedonia,Mexico
+100,112,2,Macedonia,Moldova
+100,141,1,Macedonia,Russia
+100,174,1,Macedonia,Turkey
+100,178,2,Macedonia,Hungary
+100,215,2,Macedonia,Serbia
+106,4,1,Malta,Algeria
+106,10,1,Malta,Armenia
+106,19,1,Malta,Belgium
+106,24,2,Malta,Bosnia-Herzegovina
+106,56,1,Malta,Greece
+106,67,1,Malta,India
+106,75,1,Malta,Italy
+106,106,55,Malta,Malta
+106,135,1,Malta,Poland
+106,136,2,Malta,Portugal
+106,140,2,Malta,Romania
+106,157,2,Malta,Spain
+106,184,2,Malta,United States
+106,188,4,Malta,Cyprus
+106,189,1,Malta,England
+107,2,2,Morocco,Egypt
+107,19,1,Morocco,Belgium
+107,37,1,Morocco,Croatia
+107,49,1,Morocco,Finland
+107,107,60,Morocco,Morocco
+107,125,1,Morocco,Norway
+107,136,3,Morocco,Portugal
+107,137,2,Morocco,Qatar
+107,173,1,Morocco,Tunisia
+107,174,1,Morocco,Turkey
+107,178,1,Morocco,Hungary
+107,183,1,Morocco,United Arab Emirates
+110,9,10,Mexico,Argentina
+110,10,1,Mexico,Armenia
+110,26,2,Mexico,Brazil
+110,34,1,Mexico,China
+110,36,2,Mexico,Costa Rica
+110,40,1,Mexico,Germany
+110,44,4,Mexico,Ecuador
+110,49,1,Mexico,Finland
+110,83,4,Mexico,Colombia
+110,87,1,Mexico,"Korea, South"
+110,106,1,Mexico,Malta
+110,110,163,Mexico,Mexico
+110,133,1,Mexico,Peru
+110,154,1,Mexico,Slovakia
+110,157,4,Mexico,Spain
+110,184,3,Mexico,United States
+112,10,1,Moldova,Armenia
+112,13,1,Moldova,Azerbaijan
+112,18,4,Moldova,Belarus
+112,24,1,Moldova,Bosnia-Herzegovina
+112,26,1,Moldova,Brazil
+112,28,1,Moldova,Bulgaria
+112,53,2,Moldova,Georgia
+112,56,1,Moldova,Greece
+112,71,1,Moldova,Iran
+112,73,1,Moldova,Iceland
+112,74,1,Moldova,Israel
+112,81,2,Moldova,Kazakhstan
+112,92,2,Moldova,Latvia
+112,106,1,Moldova,Malta
+112,112,43,Moldova,Moldova
+112,136,1,Moldova,Portugal
+112,140,6,Moldova,Romania
+112,141,2,Moldova,Russia
+112,146,1,Moldova,Saudi Arabia
+112,154,1,Moldova,Slovakia
+112,177,4,Moldova,Ukraine
+112,183,1,Moldova,United Arab Emirates
+112,188,1,Moldova,Cyprus
+112,215,1,Moldova,Serbia
+120,12,3,New Zealand,Australia
+120,53,1,New Zealand,Georgia
+120,120,29,New Zealand,New Zealand
+120,125,1,New Zealand,Norway
+120,154,1,New Zealand,Slovakia
+120,184,1,New Zealand,United States
+120,191,1,New Zealand,Wales
+122,12,3,Netherlands,Australia
+122,19,10,Netherlands,Belgium
+122,28,3,Netherlands,Bulgaria
+122,34,2,Netherlands,China
+122,39,5,Netherlands,Denmark
+122,40,9,Netherlands,Germany
+122,50,3,Netherlands,France
+122,56,1,Netherlands,Greece
+122,67,1,Netherlands,India
+122,73,1,Netherlands,Iceland
+122,74,2,Netherlands,Israel
+122,75,6,Netherlands,Italy
+122,98,1,Netherlands,Lithuania
+122,107,1,Netherlands,Morocco
+122,122,159,Netherlands,Netherlands
+122,125,2,Netherlands,Norway
+122,135,1,Netherlands,Poland
+122,136,3,Netherlands,Portugal
+122,137,1,Netherlands,Qatar
+122,140,4,Netherlands,Romania
+122,146,1,Netherlands,Saudi Arabia
+122,147,2,Netherlands,Sweden
+122,148,4,Netherlands,Switzerland
+122,154,2,Netherlands,Slovakia
+122,157,2,Netherlands,Spain
+122,174,8,Netherlands,Turkey
+122,184,4,Netherlands,United States
+122,188,2,Netherlands,Cyprus
+122,189,14,Netherlands,England
+122,190,3,Netherlands,Scotland
+122,215,1,Netherlands,Serbia
+125,19,4,Norway,Belgium
+125,24,1,Norway,Bosnia-Herzegovina
+125,34,2,Norway,China
+125,36,1,Norway,Costa Rica
+125,37,1,Norway,Croatia
+125,39,9,Norway,Denmark
+125,40,4,Norway,Germany
+125,49,5,Norway,Finland
+125,50,6,Norway,France
+125,53,1,Norway,Georgia
+125,73,5,Norway,Iceland
+125,81,1,Norway,Kazakhstan
+125,87,1,Norway,"Korea, South"
+125,122,3,Norway,Netherlands
+125,125,89,Norway,Norway
+125,127,1,Norway,Austria
+125,135,1,Norway,Poland
+125,136,1,Norway,Portugal
+125,140,1,Norway,Romania
+125,141,1,Norway,Russia
+125,147,16,Norway,Sweden
+125,148,1,Norway,Switzerland
+125,155,1,Norway,Slovenia
+125,174,5,Norway,Turkey
+125,177,1,Norway,Ukraine
+125,184,2,Norway,United States
+125,188,1,Norway,Cyprus
+125,189,3,Norway,England
+127,3,1,Austria,Albania
+127,24,2,Austria,Bosnia-Herzegovina
+127,28,1,Austria,Bulgaria
+127,37,4,Austria,Croatia
+127,39,2,Austria,Denmark
+127,40,24,Austria,Germany
+127,50,1,Austria,France
+127,71,1,Austria,Iran
+127,75,1,Austria,Italy
+127,87,1,Austria,"Korea, South"
+127,106,1,Austria,Malta
+127,112,1,Austria,Moldova
+127,127,282,Austria,Austria
+127,136,1,Austria,Portugal
+127,137,1,Austria,Qatar
+127,141,1,Austria,Russia
+127,148,1,Austria,Switzerland
+127,154,2,Austria,Slovakia
+127,155,5,Austria,Slovenia
+127,157,4,Austria,Spain
+127,174,2,Austria,Turkey
+127,177,1,Austria,Ukraine
+127,178,2,Austria,Hungary
+127,184,1,Austria,United States
+127,189,1,Austria,England
+127,190,1,Austria,Scotland
+127,215,1,Austria,Serbia
+133,9,2,Peru,Argentina
+133,33,2,Peru,Chile
+133,40,1,Peru,Germany
+133,44,1,Peru,Ecuador
+133,83,1,Peru,Colombia
+133,110,2,Peru,Mexico
+133,122,1,Peru,Netherlands
+133,133,100,Peru,Peru
+133,137,2,Peru,Qatar
+133,179,1,Peru,Uruguay
+133,218,1,Peru,Hongkong
+134,71,1,Philippines,Iran
+134,110,1,Philippines,Mexico
+134,134,27,Philippines,Philippines
+134,153,1,Philippines,Singapore
+135,3,1,Poland,Albania
+135,13,1,Poland,Azerbaijan
+135,18,2,Poland,Belarus
+135,19,2,Poland,Belgium
+135,24,2,Poland,Bosnia-Herzegovina
+135,28,1,Poland,Bulgaria
+135,34,1,Poland,China
+135,40,3,Poland,Germany
+135,53,1,Poland,Georgia
+135,67,1,Poland,India
+135,71,1,Poland,Iran
+135,75,1,Poland,Italy
+135,81,1,Poland,Kazakhstan
+135,92,2,Poland,Latvia
+135,98,1,Poland,Lithuania
+135,110,1,Poland,Mexico
+135,122,1,Poland,Netherlands
+135,135,274,Poland,Poland
+135,136,5,Poland,Portugal
+135,137,1,Poland,Qatar
+135,140,3,Poland,Romania
+135,141,2,Poland,Russia
+135,147,1,Poland,Sweden
+135,154,7,Poland,Slovakia
+135,155,3,Poland,Slovenia
+135,157,2,Poland,Spain
+135,167,1,Poland,Thailand
+135,172,1,Poland,Czech Republic
+135,174,4,Poland,Turkey
+135,177,2,Poland,Ukraine
+135,178,1,Poland,Hungary
+135,179,1,Poland,Uruguay
+135,188,8,Poland,Cyprus
+135,189,6,Poland,England
+135,190,2,Poland,Scotland
+135,215,3,Poland,Serbia
+136,2,4,Portugal,Egypt
+136,9,3,Portugal,Argentina
+136,13,1,Portugal,Azerbaijan
+136,19,6,Portugal,Belgium
+136,26,4,Portugal,Brazil
+136,28,4,Portugal,Bulgaria
+136,34,13,Portugal,China
+136,37,1,Portugal,Croatia
+136,39,1,Portugal,Denmark
+136,40,1,Portugal,Germany
+136,49,1,Portugal,Finland
+136,50,8,Portugal,France
+136,56,11,Portugal,Greece
+136,67,1,Portugal,India
+136,75,5,Portugal,Italy
+136,77,3,Portugal,Japan
+136,81,1,Portugal,Kazakhstan
+136,83,3,Portugal,Colombia
+136,98,1,Portugal,Lithuania
+136,110,4,Portugal,Mexico
+136,112,2,Portugal,Moldova
+136,122,2,Portugal,Netherlands
+136,133,2,Portugal,Peru
+136,135,1,Portugal,Poland
+136,136,211,Portugal,Portugal
+136,137,2,Portugal,Qatar
+136,140,5,Portugal,Romania
+136,141,1,Portugal,Russia
+136,146,3,Portugal,Saudi Arabia
+136,148,2,Portugal,Switzerland
+136,155,1,Portugal,Slovenia
+136,157,21,Portugal,Spain
+136,159,1,Portugal,South Africa
+136,167,1,Portugal,Thailand
+136,173,1,Portugal,Tunisia
+136,174,9,Portugal,Turkey
+136,183,1,Portugal,United Arab Emirates
+136,184,3,Portugal,United States
+136,188,12,Portugal,Cyprus
+136,189,10,Portugal,England
+136,215,1,Portugal,Serbia
+137,2,1,Qatar,Egypt
+137,9,1,Qatar,Argentina
+137,19,2,Qatar,Belgium
+137,26,2,Qatar,Brazil
+137,28,1,Qatar,Bulgaria
+137,36,1,Qatar,Costa Rica
+137,50,1,Qatar,France
+137,67,1,Qatar,India
+137,71,2,Qatar,Iran
+137,77,1,Qatar,Japan
+137,87,3,Qatar,"Korea, South"
+137,107,1,Qatar,Morocco
+137,110,1,Qatar,Mexico
+137,136,1,Qatar,Portugal
+137,137,63,Qatar,Qatar
+137,157,2,Qatar,Spain
+137,167,1,Qatar,Thailand
+140,3,1,Romania,Albania
+140,13,1,Romania,Azerbaijan
+140,18,1,Romania,Belarus
+140,19,3,Romania,Belgium
+140,24,2,Romania,Bosnia-Herzegovina
+140,28,5,Romania,Bulgaria
+140,34,3,Romania,China
+140,37,1,Romania,Croatia
+140,40,2,Romania,Germany
+140,47,1,Romania,Estonia
+140,49,1,Romania,Finland
+140,50,2,Romania,France
+140,56,3,Romania,Greece
+140,72,1,Romania,Ireland
+140,73,1,Romania,Iceland
+140,74,6,Romania,Israel
+140,75,1,Romania,Italy
+140,77,1,Romania,Japan
+140,81,1,Romania,Kazakhstan
+140,92,1,Romania,Latvia
+140,94,2,Romania,Lebanon
+140,98,1,Romania,Lithuania
+140,106,1,Romania,Malta
+140,110,1,Romania,Mexico
+140,112,5,Romania,Moldova
+140,122,1,Romania,Netherlands
+140,125,1,Romania,Norway
+140,127,2,Romania,Austria
+140,135,4,Romania,Poland
+140,136,9,Romania,Portugal
+140,140,205,Romania,Romania
+140,146,2,Romania,Saudi Arabia
+140,147,1,Romania,Sweden
+140,148,1,Romania,Switzerland
+140,155,1,Romania,Slovenia
+140,157,2,Romania,Spain
+140,172,2,Romania,Czech Republic
+140,174,8,Romania,Turkey
+140,178,10,Romania,Hungary
+140,179,1,Romania,Uruguay
+140,184,1,Romania,United States
+140,188,7,Romania,Cyprus
+140,189,2,Romania,England
+140,215,5,Romania,Serbia
+140,218,2,Romania,Hongkong
+141,10,3,Russia,Armenia
+141,13,2,Russia,Azerbaijan
+141,18,7,Russia,Belarus
+141,19,1,Russia,Belgium
+141,26,5,Russia,Brazil
+141,28,3,Russia,Bulgaria
+141,34,1,Russia,China
+141,37,3,Russia,Croatia
+141,39,1,Russia,Denmark
+141,40,4,Russia,Germany
+141,47,1,Russia,Estonia
+141,49,1,Russia,Finland
+141,50,1,Russia,France
+141,53,6,Russia,Georgia
+141,56,1,Russia,Greece
+141,74,1,Russia,Israel
+141,75,4,Russia,Italy
+141,81,7,Russia,Kazakhstan
+141,92,5,Russia,Latvia
+141,110,1,Russia,Mexico
+141,112,4,Russia,Moldova
+141,125,1,Russia,Norway
+141,135,4,Russia,Poland
+141,136,3,Russia,Portugal
+141,141,182,Russia,Russia
+141,146,1,Russia,Saudi Arabia
+141,148,2,Russia,Switzerland
+141,154,3,Russia,Slovakia
+141,157,1,Russia,Spain
+141,159,1,Russia,South Africa
+141,174,3,Russia,Turkey
+141,177,1,Russia,Ukraine
+141,189,3,Russia,England
+141,215,2,Russia,Serbia
+146,2,3,Saudi Arabia,Egypt
+146,4,2,Saudi Arabia,Algeria
+146,26,4,Saudi Arabia,Brazil
+146,40,1,Saudi Arabia,Germany
+146,74,1,Saudi Arabia,Israel
+146,100,1,Saudi Arabia,Macedonia
+146,107,3,Saudi Arabia,Morocco
+146,122,1,Saudi Arabia,Netherlands
+146,125,1,Saudi Arabia,Norway
+146,136,3,Saudi Arabia,Portugal
+146,146,54,Saudi Arabia,Saudi Arabia
+146,147,1,Saudi Arabia,Sweden
+146,167,3,Saudi Arabia,Thailand
+146,174,1,Saudi Arabia,Turkey
+146,179,1,Saudi Arabia,Uruguay
+146,183,2,Saudi Arabia,United Arab Emirates
+146,184,2,Saudi Arabia,United States
+147,3,1,Sweden,Albania
+147,19,2,Sweden,Belgium
+147,24,1,Sweden,Bosnia-Herzegovina
+147,34,3,Sweden,China
+147,36,1,Sweden,Costa Rica
+147,37,1,Sweden,Croatia
+147,39,3,Sweden,Denmark
+147,40,3,Sweden,Germany
+147,49,7,Sweden,Finland
+147,53,1,Sweden,Georgia
+147,56,3,Sweden,Greece
+147,71,1,Sweden,Iran
+147,72,2,Sweden,Ireland
+147,73,3,Sweden,Iceland
+147,74,1,Sweden,Israel
+147,75,2,Sweden,Italy
+147,77,2,Sweden,Japan
+147,81,1,Sweden,Kazakhstan
+147,122,5,Sweden,Netherlands
+147,125,12,Sweden,Norway
+147,127,1,Sweden,Austria
+147,141,2,Sweden,Russia
+147,146,1,Sweden,Saudi Arabia
+147,147,178,Sweden,Sweden
+147,148,1,Sweden,Switzerland
+147,157,2,Sweden,Spain
+147,159,1,Sweden,South Africa
+147,172,1,Sweden,Czech Republic
+147,174,6,Sweden,Turkey
+147,177,1,Sweden,Ukraine
+147,184,5,Sweden,United States
+147,188,1,Sweden,Cyprus
+147,189,2,Sweden,England
+148,12,2,Switzerland,Australia
+148,24,1,Switzerland,Bosnia-Herzegovina
+148,26,1,Switzerland,Brazil
+148,37,1,Switzerland,Croatia
+148,40,15,Switzerland,Germany
+148,50,6,Switzerland,France
+148,56,3,Switzerland,Greece
+148,74,3,Switzerland,Israel
+148,75,5,Switzerland,Italy
+148,77,1,Switzerland,Japan
+148,100,1,Switzerland,Macedonia
+148,107,1,Switzerland,Morocco
+148,112,1,Switzerland,Moldova
+148,122,1,Switzerland,Netherlands
+148,127,5,Switzerland,Austria
+148,135,1,Switzerland,Poland
+148,136,1,Switzerland,Portugal
+148,137,1,Switzerland,Qatar
+148,140,2,Switzerland,Romania
+148,141,1,Switzerland,Russia
+148,147,1,Switzerland,Sweden
+148,148,155,Switzerland,Switzerland
+148,155,2,Switzerland,Slovenia
+148,157,3,Switzerland,Spain
+148,174,3,Switzerland,Turkey
+148,177,1,Switzerland,Ukraine
+148,179,2,Switzerland,Uruguay
+148,184,4,Switzerland,United States
+148,188,2,Switzerland,Cyprus
+148,189,2,Switzerland,England
+148,215,1,Switzerland,Serbia
+153,10,1,Singapore,Armenia
+153,24,1,Singapore,Bosnia-Herzegovina
+153,67,1,Singapore,India
+153,77,1,Singapore,Japan
+153,153,54,Singapore,Singapore
+153,190,1,Singapore,Scotland
+153,215,1,Singapore,Serbia
+154,10,1,Slovakia,Armenia
+154,19,2,Slovakia,Belgium
+154,24,6,Slovakia,Bosnia-Herzegovina
+154,28,1,Slovakia,Bulgaria
+154,37,1,Slovakia,Croatia
+154,39,2,Slovakia,Denmark
+154,56,3,Slovakia,Greece
+154,75,3,Slovakia,Italy
+154,81,3,Slovakia,Kazakhstan
+154,92,1,Slovakia,Latvia
+154,112,1,Slovakia,Moldova
+154,120,1,Slovakia,New Zealand
+154,127,4,Slovakia,Austria
+154,134,1,Slovakia,Philippines
+154,135,13,Slovakia,Poland
+154,140,3,Slovakia,Romania
+154,154,125,Slovakia,Slovakia
+154,155,3,Slovakia,Slovenia
+154,157,1,Slovakia,Spain
+154,172,21,Slovakia,Czech Republic
+154,174,1,Slovakia,Turkey
+154,178,2,Slovakia,Hungary
+154,215,6,Slovakia,Serbia
+155,24,4,Slovenia,Bosnia-Herzegovina
+155,28,1,Slovenia,Bulgaria
+155,37,8,Slovenia,Croatia
+155,81,2,Slovenia,Kazakhstan
+155,92,1,Slovenia,Latvia
+155,99,1,Slovenia,Luxembourg
+155,106,2,Slovenia,Malta
+155,112,1,Slovenia,Moldova
+155,122,1,Slovenia,Netherlands
+155,127,5,Slovenia,Austria
+155,135,6,Slovenia,Poland
+155,136,1,Slovenia,Portugal
+155,140,1,Slovenia,Romania
+155,141,1,Slovenia,Russia
+155,148,2,Slovenia,Switzerland
+155,154,2,Slovenia,Slovakia
+155,155,66,Slovenia,Slovenia
+155,157,1,Slovenia,Spain
+155,172,1,Slovenia,Czech Republic
+155,174,1,Slovenia,Turkey
+155,188,2,Slovenia,Cyprus
+155,215,3,Slovenia,Serbia
+157,9,3,Spain,Argentina
+157,12,6,Spain,Australia
+157,19,3,Spain,Belgium
+157,26,3,Spain,Brazil
+157,33,1,Spain,Chile
+157,34,6,Spain,China
+157,39,1,Spain,Denmark
+157,40,3,Spain,Germany
+157,44,1,Spain,Ecuador
+157,50,3,Spain,France
+157,56,10,Spain,Greece
+157,67,8,Spain,India
+157,71,1,Spain,Iran
+157,74,4,Spain,Israel
+157,75,16,Spain,Italy
+157,77,1,Spain,Japan
+157,87,2,Spain,"Korea, South"
+157,98,1,Spain,Lithuania
+157,106,3,Spain,Malta
+157,107,2,Spain,Morocco
+157,110,6,Spain,Mexico
+157,120,1,Spain,New Zealand
+157,122,2,Spain,Netherlands
+157,127,1,Spain,Austria
+157,134,1,Spain,Philippines
+157,135,4,Spain,Poland
+157,136,11,Spain,Portugal
+157,137,3,Spain,Qatar
+157,140,7,Spain,Romania
+157,155,3,Spain,Slovenia
+157,157,726,Spain,Spain
+157,167,2,Spain,Thailand
+157,173,1,Spain,Tunisia
+157,174,8,Spain,Turkey
+157,178,1,Spain,Hungary
+157,179,2,Spain,Uruguay
+157,183,3,Spain,United Arab Emirates
+157,184,7,Spain,United States
+157,188,6,Spain,Cyprus
+157,189,19,Spain,England
+157,190,1,Spain,Scotland
+157,215,2,Spain,Serbia
+157,218,2,Spain,Hongkong
+159,34,1,South Africa,China
+159,39,2,South Africa,Denmark
+159,50,1,South Africa,France
+159,53,1,South Africa,Georgia
+159,67,3,South Africa,India
+159,122,1,South Africa,Netherlands
+159,147,2,South Africa,Sweden
+159,154,1,South Africa,Slovakia
+159,159,66,South Africa,South Africa
+159,174,1,South Africa,Turkey
+159,188,1,South Africa,Cyprus
+167,3,1,Thailand,Albania
+167,12,2,Thailand,Australia
+167,26,2,Thailand,Brazil
+167,39,1,Thailand,Denmark
+167,67,2,Thailand,India
+167,77,4,Thailand,Japan
+167,87,2,Thailand,"Korea, South"
+167,100,1,Thailand,Macedonia
+167,133,1,Thailand,Peru
+167,146,2,Thailand,Saudi Arabia
+167,154,1,Thailand,Slovakia
+167,157,1,Thailand,Spain
+167,167,33,Thailand,Thailand
+167,215,1,Thailand,Serbia
+172,24,1,Czech Republic,Bosnia-Herzegovina
+172,28,2,Czech Republic,Bulgaria
+172,37,2,Czech Republic,Croatia
+172,39,2,Czech Republic,Denmark
+172,40,4,Czech Republic,Germany
+172,47,1,Czech Republic,Estonia
+172,56,2,Czech Republic,Greece
+172,73,1,Czech Republic,Iceland
+172,75,2,Czech Republic,Italy
+172,125,1,Czech Republic,Norway
+172,127,2,Czech Republic,Austria
+172,135,10,Czech Republic,Poland
+172,148,1,Czech Republic,Switzerland
+172,154,26,Czech Republic,Slovakia
+172,155,1,Czech Republic,Slovenia
+172,172,115,Czech Republic,Czech Republic
+172,174,2,Czech Republic,Turkey
+172,178,2,Czech Republic,Hungary
+172,189,1,Czech Republic,England
+172,190,1,Czech Republic,Scotland
+173,2,1,Tunisia,Egypt
+173,4,2,Tunisia,Algeria
+173,28,1,Tunisia,Bulgaria
+173,34,1,Tunisia,China
+173,77,1,Tunisia,Japan
+173,94,2,Tunisia,Lebanon
+173,107,1,Tunisia,Morocco
+173,136,1,Tunisia,Portugal
+173,137,2,Tunisia,Qatar
+173,140,1,Tunisia,Romania
+173,146,5,Tunisia,Saudi Arabia
+173,173,101,Tunisia,Tunisia
+173,184,1,Tunisia,United States
+174,12,1,Turkey,Australia
+174,13,4,Turkey,Azerbaijan
+174,18,1,Turkey,Belarus
+174,19,2,Turkey,Belgium
+174,26,3,Turkey,Brazil
+174,33,2,Turkey,Chile
+174,34,4,Turkey,China
+174,40,7,Turkey,Germany
+174,50,8,Turkey,France
+174,53,2,Turkey,Georgia
+174,56,4,Turkey,Greece
+174,67,1,Turkey,India
+174,71,1,Turkey,Iran
+174,74,1,Turkey,Israel
+174,75,4,Turkey,Italy
+174,77,1,Turkey,Japan
+174,81,1,Turkey,Kazakhstan
+174,100,1,Turkey,Macedonia
+174,110,1,Turkey,Mexico
+174,122,3,Turkey,Netherlands
+174,125,1,Turkey,Norway
+174,127,2,Turkey,Austria
+174,135,2,Turkey,Poland
+174,136,2,Turkey,Portugal
+174,140,2,Turkey,Romania
+174,147,2,Turkey,Sweden
+174,148,5,Turkey,Switzerland
+174,157,8,Turkey,Spain
+174,173,1,Turkey,Tunisia
+174,174,593,Turkey,Turkey
+174,177,1,Turkey,Ukraine
+174,183,4,Turkey,United Arab Emirates
+174,184,2,Turkey,United States
+174,188,2,Turkey,Cyprus
+174,189,3,Turkey,England
+174,215,2,Turkey,Serbia
+177,3,1,Ukraine,Albania
+177,9,1,Ukraine,Argentina
+177,10,1,Ukraine,Armenia
+177,13,4,Ukraine,Azerbaijan
+177,18,9,Ukraine,Belarus
+177,26,2,Ukraine,Brazil
+177,34,2,Ukraine,China
+177,37,3,Ukraine,Croatia
+177,40,2,Ukraine,Germany
+177,49,1,Ukraine,Finland
+177,50,3,Ukraine,France
+177,53,2,Ukraine,Georgia
+177,74,2,Ukraine,Israel
+177,75,3,Ukraine,Italy
+177,81,5,Ukraine,Kazakhstan
+177,92,1,Ukraine,Latvia
+177,98,1,Ukraine,Lithuania
+177,100,1,Ukraine,Macedonia
+177,106,1,Ukraine,Malta
+177,107,1,Ukraine,Morocco
+177,110,1,Ukraine,Mexico
+177,112,6,Ukraine,Moldova
+177,125,1,Ukraine,Norway
+177,127,1,Ukraine,Austria
+177,135,1,Ukraine,Poland
+177,137,1,Ukraine,Qatar
+177,140,3,Ukraine,Romania
+177,141,6,Ukraine,Russia
+177,157,3,Ukraine,Spain
+177,174,5,Ukraine,Turkey
+177,177,130,Ukraine,Ukraine
+177,178,1,Ukraine,Hungary
+177,184,1,Ukraine,United States
+177,189,1,Ukraine,England
+177,215,1,Ukraine,Serbia
+178,3,1,Hungary,Albania
+178,12,1,Hungary,Australia
+178,19,1,Hungary,Belgium
+178,24,2,Hungary,Bosnia-Herzegovina
+178,34,1,Hungary,China
+178,37,1,Hungary,Croatia
+178,40,2,Hungary,Germany
+178,50,1,Hungary,France
+178,56,1,Hungary,Greece
+178,67,1,Hungary,India
+178,74,2,Hungary,Israel
+178,75,2,Hungary,Italy
+178,87,1,Hungary,"Korea, South"
+178,122,1,Hungary,Netherlands
+178,135,3,Hungary,Poland
+178,136,2,Hungary,Portugal
+178,147,1,Hungary,Sweden
+178,148,3,Hungary,Switzerland
+178,154,2,Hungary,Slovakia
+178,155,1,Hungary,Slovenia
+178,157,1,Hungary,Spain
+178,174,1,Hungary,Turkey
+178,177,1,Hungary,Ukraine
+178,178,124,Hungary,Hungary
+178,179,1,Hungary,Uruguay
+178,182,1,Hungary,Venezuela
+178,184,4,Hungary,United States
+178,215,3,Hungary,Serbia
+179,3,1,Uruguay,Albania
+179,9,20,Uruguay,Argentina
+179,12,1,Uruguay,Australia
+179,26,4,Uruguay,Brazil
+179,33,3,Uruguay,Chile
+179,34,1,Uruguay,China
+179,36,1,Uruguay,Costa Rica
+179,44,3,Uruguay,Ecuador
+179,50,1,Uruguay,France
+179,75,9,Uruguay,Italy
+179,83,6,Uruguay,Colombia
+179,94,2,Uruguay,Lebanon
+179,110,14,Uruguay,Mexico
+179,120,1,Uruguay,New Zealand
+179,122,1,Uruguay,Netherlands
+179,133,2,Uruguay,Peru
+179,136,1,Uruguay,Portugal
+179,137,1,Uruguay,Qatar
+179,141,2,Uruguay,Russia
+179,146,2,Uruguay,Saudi Arabia
+179,147,2,Uruguay,Sweden
+179,157,3,Uruguay,Spain
+179,172,1,Uruguay,Czech Republic
+179,179,191,Uruguay,Uruguay
+179,182,3,Uruguay,Venezuela
+179,184,1,Uruguay,United States
+179,188,2,Uruguay,Cyprus
+179,189,2,Uruguay,England
+182,9,3,Venezuela,Argentina
+182,26,1,Venezuela,Brazil
+182,33,2,Venezuela,Chile
+182,36,1,Venezuela,Costa Rica
+182,44,1,Venezuela,Ecuador
+182,56,1,Venezuela,Greece
+182,67,1,Venezuela,India
+182,75,2,Venezuela,Italy
+182,83,6,Venezuela,Colombia
+182,110,2,Venezuela,Mexico
+182,136,5,Venezuela,Portugal
+182,146,2,Venezuela,Saudi Arabia
+182,157,1,Venezuela,Spain
+182,182,213,Venezuela,Venezuela
+183,2,1,United Arab Emirates,Egypt
+183,9,3,United Arab Emirates,Argentina
+183,26,5,United Arab Emirates,Brazil
+183,34,4,United Arab Emirates,China
+183,67,1,United Arab Emirates,India
+183,71,1,United Arab Emirates,Iran
+183,75,1,United Arab Emirates,Italy
+183,83,1,United Arab Emirates,Colombia
+183,107,2,United Arab Emirates,Morocco
+183,135,1,United Arab Emirates,Poland
+183,147,1,United Arab Emirates,Sweden
+183,157,2,United Arab Emirates,Spain
+183,167,1,United Arab Emirates,Thailand
+183,183,58,United Arab Emirates,United Arab Emirates
+184,9,3,United States,Argentina
+184,10,1,United States,Armenia
+184,26,1,United States,Brazil
+184,34,1,United States,China
+184,36,3,United States,Costa Rica
+184,39,3,United States,Denmark
+184,40,1,United States,Germany
+184,47,1,United States,Estonia
+184,49,1,United States,Finland
+184,67,1,United States,India
+184,71,2,United States,Iran
+184,72,2,United States,Ireland
+184,73,1,United States,Iceland
+184,74,1,United States,Israel
+184,83,3,United States,Colombia
+184,106,1,United States,Malta
+184,110,7,United States,Mexico
+184,120,2,United States,New Zealand
+184,122,1,United States,Netherlands
+184,125,3,United States,Norway
+184,135,3,United States,Poland
+184,136,2,United States,Portugal
+184,137,1,United States,Qatar
+184,147,5,United States,Sweden
+184,155,1,United States,Slovenia
+184,157,1,United States,Spain
+184,174,2,United States,Turkey
+184,179,1,United States,Uruguay
+184,182,5,United States,Venezuela
+184,184,301,United States,United States
+184,188,2,United States,Cyprus
+184,189,3,United States,England
+184,190,1,United States,Scotland
+188,3,1,Cyprus,Albania
+188,18,1,Cyprus,Belarus
+188,24,1,Cyprus,Bosnia-Herzegovina
+188,26,1,Cyprus,Brazil
+188,28,1,Cyprus,Bulgaria
+188,50,2,Cyprus,France
+188,53,6,Cyprus,Georgia
+188,56,16,Cyprus,Greece
+188,67,3,Cyprus,India
+188,71,1,Cyprus,Iran
+188,74,1,Cyprus,Israel
+188,81,1,Cyprus,Kazakhstan
+188,83,1,Cyprus,Colombia
+188,100,2,Cyprus,Macedonia
+188,107,1,Cyprus,Morocco
+188,122,3,Cyprus,Netherlands
+188,127,2,Cyprus,Austria
+188,135,3,Cyprus,Poland
+188,136,5,Cyprus,Portugal
+188,137,1,Cyprus,Qatar
+188,140,4,Cyprus,Romania
+188,146,1,Cyprus,Saudi Arabia
+188,147,1,Cyprus,Sweden
+188,148,1,Cyprus,Switzerland
+188,154,1,Cyprus,Slovakia
+188,157,8,Cyprus,Spain
+188,172,1,Cyprus,Czech Republic
+188,174,2,Cyprus,Turkey
+188,178,2,Cyprus,Hungary
+188,179,1,Cyprus,Uruguay
+188,182,1,Cyprus,Venezuela
+188,184,1,Cyprus,United States
+188,188,48,Cyprus,Cyprus
+188,189,1,Cyprus,England
+188,215,1,Cyprus,Serbia
+189,9,1,England,Argentina
+189,12,6,England,Australia
+189,19,7,England,Belgium
+189,26,1,England,Brazil
+189,34,4,England,China
+189,36,1,England,Costa Rica
+189,37,1,England,Croatia
+189,39,3,England,Denmark
+189,40,13,England,Germany
+189,50,12,England,France
+189,56,6,England,Greece
+189,67,8,England,India
+189,72,6,England,Ireland
+189,73,1,England,Iceland
+189,74,2,England,Israel
+189,75,14,England,Italy
+189,92,1,England,Latvia
+189,98,1,England,Lithuania
+189,110,1,England,Mexico
+189,112,2,England,Moldova
+189,122,2,England,Netherlands
+189,125,3,England,Norway
+189,127,1,England,Austria
+189,135,2,England,Poland
+189,136,7,England,Portugal
+189,137,1,England,Qatar
+189,140,2,England,Romania
+189,141,1,England,Russia
+189,146,2,England,Saudi Arabia
+189,147,1,England,Sweden
+189,148,2,England,Switzerland
+189,155,1,England,Slovenia
+189,157,21,England,Spain
+189,159,2,England,South Africa
+189,174,11,England,Turkey
+189,178,2,England,Hungary
+189,184,9,England,United States
+189,188,2,England,Cyprus
+189,189,319,England,England
+189,190,24,England,Scotland
+189,191,1,England,Wales
+189,215,1,England,Serbia
+190,19,1,Scotland,Belgium
+190,26,1,Scotland,Brazil
+190,34,2,Scotland,China
+190,39,1,Scotland,Denmark
+190,40,1,Scotland,Germany
+190,47,1,Scotland,Estonia
+190,49,1,Scotland,Finland
+190,50,2,Scotland,France
+190,67,2,Scotland,India
+190,72,1,Scotland,Ireland
+190,73,1,Scotland,Iceland
+190,75,2,Scotland,Italy
+190,98,1,Scotland,Lithuania
+190,122,4,Scotland,Netherlands
+190,135,2,Scotland,Poland
+190,140,1,Scotland,Romania
+190,154,1,Scotland,Slovakia
+190,157,2,Scotland,Spain
+190,159,1,Scotland,South Africa
+190,172,2,Scotland,Czech Republic
+190,174,2,Scotland,Turkey
+190,184,2,Scotland,United States
+190,188,1,Scotland,Cyprus
+190,189,16,Scotland,England
+190,190,169,Scotland,Scotland
+190,191,1,Scotland,Wales
+191,120,2,Wales,New Zealand
+191,189,1,Wales,England
+191,191,30,Wales,Wales
+191,192,1,Wales,Northern Ireland
+192,72,5,Northern Ireland,Ireland
+192,189,2,Northern Ireland,England
+192,191,1,Northern Ireland,Wales
+192,192,39,Northern Ireland,Northern Ireland
+208,39,5,Faroe Island,Denmark
+208,208,29,Faroe Island,Faroe Island
+215,10,2,Serbia,Armenia
+215,12,1,Serbia,Australia
+215,18,5,Serbia,Belarus
+215,19,1,Serbia,Belgium
+215,24,28,Serbia,Bosnia-Herzegovina
+215,28,1,Serbia,Bulgaria
+215,34,3,Serbia,China
+215,37,6,Serbia,Croatia
+215,40,2,Serbia,Germany
+215,49,1,Serbia,Finland
+215,50,1,Serbia,France
+215,56,9,Serbia,Greece
+215,73,3,Serbia,Iceland
+215,74,2,Serbia,Israel
+215,75,4,Serbia,Italy
+215,77,1,Serbia,Japan
+215,81,9,Serbia,Kazakhstan
+215,87,1,Serbia,"Korea, South"
+215,92,2,Serbia,Latvia
+215,98,5,Serbia,Lithuania
+215,100,2,Serbia,Macedonia
+215,122,1,Serbia,Netherlands
+215,125,1,Serbia,Norway
+215,135,3,Serbia,Poland
+215,136,4,Serbia,Portugal
+215,141,2,Serbia,Russia
+215,146,1,Serbia,Saudi Arabia
+215,147,1,Serbia,Sweden
+215,148,6,Serbia,Switzerland
+215,153,1,Serbia,Singapore
+215,154,3,Serbia,Slovakia
+215,155,3,Serbia,Slovenia
+215,157,3,Serbia,Spain
+215,167,1,Serbia,Thailand
+215,172,2,Serbia,Czech Republic
+215,174,6,Serbia,Turkey
+215,178,2,Serbia,Hungary
+215,183,1,Serbia,United Arab Emirates
+215,184,2,Serbia,United States
+215,188,2,Serbia,Cyprus
+215,189,2,Serbia,England
+215,215,246,Serbia,Serbia
+215,218,1,Serbia,Hongkong
+218,12,1,Hongkong,Australia
+218,34,4,Hongkong,China
+218,37,1,Hongkong,Croatia
+218,140,1,Hongkong,Romania
+218,157,1,Hongkong,Spain
+218,167,1,Hongkong,Thailand
+218,215,3,Hongkong,Serbia
+218,218,55,Hongkong,Hongkong

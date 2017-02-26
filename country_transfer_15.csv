@@ -1,4 +1,4 @@
-player id,move from id,move from,move to,move to id,market value,transfer fee,from_country_id,to_country_id
+player id,move from id,move from,move to,move to id,market value,transfer fee,source,target
 2452,32358,FC Köniz,SC Brühl SG,13544,£21k,?,148,148
 3146,405,Aston Villa,Stoke City,512,£425k,Free transfer,189,189
 3721,541,SC Austria Lustenau,WSG Wattens,2446,£85k,Free transfer,127,127
