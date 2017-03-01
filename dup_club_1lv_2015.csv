@@ -1,0 +1,345 @@
+club_name,league_id,club_id,country_id,season_id,league_level,league_name,country_name
+Alianza Lima,PERC,184,133,2015,First tier  -,torneo-descentralizado,Peru
+Alianza Lima,PEDI,184,133,2015,First tier  -,torneo-descentralizado-liguilla-b,Peru
+Caracas FC,VZ1C,531,182,2015,First tier  -,torneo-clausura,Venezuela
+Caracas FC,VZ1A,531,182,2015,First tier  -,torneo-apertura,Venezuela
+Gamba Osaka,JL11,596,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Gamba Osaka,JL12,596,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+Urawa Red Diamonds,JL11,828,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Urawa Red Diamonds,JL12,828,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+CA Peñarol,URU1,861,179,2015,First tier  -,primera-division-apertura,Uruguay
+CA Peñarol,URUC,861,179,2015,First tier  -,primera-division-clausura,Uruguay
+Club Nacional,URU1,866,179,2015,First tier  -,primera-division-apertura,Uruguay
+Club Nacional,URUC,866,179,2015,First tier  -,primera-division-clausura,Uruguay
+Júbilo Iwata,JL12,937,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+Júbilo Iwata,JL11,937,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Club Universidad de Chile,CHLA,1037,33,2015,First tier  -,primera-division-apertura,Chile
+Club Universidad de Chile,CHL1,1037,33,2015,First tier  -,primera-division-clausura,Chile
+Nagoya Grampus,JL12,1066,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+Nagoya Grampus,JL11,1066,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+CD El Nacional,ECSE,1143,44,2015,First tier  -,serie-a-segunda-etapa,Ecuador
+CD El Nacional,ECPE,1143,44,2015,First tier  -,serie-a-primera-etapa,Ecuador
+Danubio FC,URUC,1306,179,2015,First tier  -,primera-division-clausura,Uruguay
+Danubio FC,URU1,1306,179,2015,First tier  -,primera-division-apertura,Uruguay
+Santos Laguna,POME,1403,110,2015,First tier  -,liguilla-clausura,Mexico
+Santos Laguna,MEXA,1403,110,2015,First tier  -,liga-mx-apertura,Mexico
+Santos Laguna,MEX1,1403,110,2015,First tier  -,liga-mx-clausura,Mexico
+Sporting Cristal Lima,PERC,1450,133,2015,First tier  -,torneo-descentralizado,Peru
+Sporting Cristal Lima,PEDP,1450,133,2015,First tier  -,torneo-descentralizado-liguilla-a,Peru
+Sporting Cristal Lima,PERF,1450,133,2015,First tier  -,torneo-descentralizado-play-offs,Peru
+Deportivo Toluca,MEXA,1804,110,2015,First tier  -,liga-mx-apertura,Mexico
+Deportivo Toluca,MEX1,1804,110,2015,First tier  -,liga-mx-clausura,Mexico
+IA Sud America Montevideo,URUC,1806,179,2015,First tier  -,primera-division-clausura,Uruguay
+IA Sud America Montevideo,URU1,1806,179,2015,First tier  -,primera-division-apertura,Uruguay
+Kashima Antlers,JL12,2241,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+Kashima Antlers,JL11,2241,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Millonarios FC,COL1,2350,83,2015,First tier  -,liga-aguila-ii,Colombia
+Millonarios FC,COLP,2350,83,2015,First tier  -,liga-aguila-i,Colombia
+Montevideo Wanderers,URUC,2403,179,2015,First tier  -,primera-division-clausura,Uruguay
+Montevideo Wanderers,URU1,2403,179,2015,First tier  -,primera-division-apertura,Uruguay
+CF Monterrey,MEX1,2407,110,2015,First tier  -,liga-mx-clausura,Mexico
+CF Monterrey,MEXA,2407,110,2015,First tier  -,liga-mx-apertura,Mexico
+CF Monterrey,POME,2407,110,2015,First tier  -,liguilla-clausura,Mexico
+Atletico River Plate Montevideo,URUC,2419,179,2015,First tier  -,primera-division-clausura,Uruguay
+Atletico River Plate Montevideo,URU1,2419,179,2015,First tier  -,primera-division-apertura,Uruguay
+CSD Colo Colo,CHLA,2433,33,2015,First tier  -,primera-division-apertura,Chile
+CSD Colo Colo,CHL1,2433,33,2015,First tier  -,primera-division-clausura,Chile
+Defensor Sporting Club,URUC,2619,179,2015,First tier  -,primera-division-clausura,Uruguay
+Defensor Sporting Club,URU1,2619,179,2015,First tier  -,primera-division-apertura,Uruguay
+CS Herediano,CRPV,2677,36,2015,First tier  -,primera-division-invierno-play-off-until-15-16-,Costa Rica
+CS Herediano,CRPD,2677,36,2015,First tier  -,primera-division-invierno,Costa Rica
+CS Herediano,PDV1,2677,36,2015,First tier  -,primera-division-verano,Costa Rica
+CS Herediano,PDV2,2677,36,2015,First tier  -,primera-division-verano-play-off-until-15-16-,Costa Rica
+Sanfrecce Hiroshima,JL11,2697,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Sanfrecce Hiroshima,JL12,2697,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+Santiago Wanderers,CHL1,2723,33,2015,First tier  -,primera-division-clausura,Chile
+Santiago Wanderers,CHLA,2723,33,2015,First tier  -,primera-division-apertura,Chile
+FBC Melgar,PEDP,2734,133,2015,First tier  -,torneo-descentralizado-liguilla-a,Peru
+FBC Melgar,PERF,2734,133,2015,First tier  -,torneo-descentralizado-play-offs,Peru
+FBC Melgar,PERC,2734,133,2015,First tier  -,torneo-descentralizado,Peru
+CD Universidad Católica,CHL1,3277,33,2015,First tier  -,primera-division-clausura,Chile
+CD Universidad Católica,CHLA,3277,33,2015,First tier  -,primera-division-apertura,Chile
+Barcelona SC Guayaquil,ECSE,3523,44,2015,First tier  -,serie-a-segunda-etapa,Ecuador
+Barcelona SC Guayaquil,ECPE,3523,44,2015,First tier  -,serie-a-primera-etapa,Ecuador
+CF América,MEX1,3631,110,2015,First tier  -,liga-mx-clausura,Mexico
+CF América,POME,3631,110,2015,First tier  -,liguilla-clausura,Mexico
+CF América,MEXA,3631,110,2015,First tier  -,liga-mx-apertura,Mexico
+CD Cruz Azul,MEX1,3711,110,2015,First tier  -,liga-mx-clausura,Mexico
+CD Cruz Azul,MEXA,3711,110,2015,First tier  -,liga-mx-apertura,Mexico
+Yokohama F. Marinos,JL12,3828,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+Yokohama F. Marinos,JL11,3828,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+CA Fénix,URUC,3829,179,2015,First tier  -,primera-division-clausura,Uruguay
+CA Fénix,URU1,3829,179,2015,First tier  -,primera-division-apertura,Uruguay
+Vissel Kobe,JL12,3958,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+Vissel Kobe,JL11,3958,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+CF Pachuca,MEX1,4035,110,2015,First tier  -,liga-mx-clausura,Mexico
+CF Pachuca,POME,4035,110,2015,First tier  -,liguilla-clausura,Mexico
+CF Pachuca,MEXA,4035,110,2015,First tier  -,liga-mx-apertura,Mexico
+Unión Española,CHLA,4321,33,2015,First tier  -,primera-division-apertura,Chile
+Unión Española,CHL1,4321,33,2015,First tier  -,primera-division-clausura,Chile
+CS Emelec,ECSE,4561,44,2015,First tier  -,serie-a-segunda-etapa,Ecuador
+CS Emelec,ECPE,4561,44,2015,First tier  -,serie-a-primera-etapa,Ecuador
+Club Juan Aurich,PEDP,4576,133,2015,First tier  -,torneo-descentralizado-liguilla-a,Peru
+Club Juan Aurich,PERC,4576,133,2015,First tier  -,torneo-descentralizado,Peru
+Deportivo Saprissa,CRPV,4720,36,2015,First tier  -,primera-division-invierno-play-off-until-15-16-,Costa Rica
+Deportivo Saprissa,PDV1,4720,36,2015,First tier  -,primera-division-verano,Costa Rica
+Deportivo Saprissa,CRPD,4720,36,2015,First tier  -,primera-division-invierno,Costa Rica
+Deportivo Saprissa,PDV2,4720,36,2015,First tier  -,primera-division-verano-play-off-until-15-16-,Costa Rica
+Chiapas FC,MEXA,4774,110,2015,First tier  -,liga-mx-apertura,Mexico
+Chiapas FC,MEX1,4774,110,2015,First tier  -,liga-mx-clausura,Mexico
+Club León FC,MEX1,4941,110,2015,First tier  -,liga-mx-clausura,Mexico
+Club León FC,MEXA,4941,110,2015,First tier  -,liga-mx-apertura,Mexico
+Club León FC,POME,4941,110,2015,First tier  -,liguilla-clausura,Mexico
+Querétaro FC,MEXA,4961,110,2015,First tier  -,liga-mx-apertura,Mexico
+Querétaro FC,MEX1,4961,110,2015,First tier  -,liga-mx-clausura,Mexico
+Tiburones Rojos de Veracruz,MEX1,5138,110,2015,First tier  -,liga-mx-clausura,Mexico
+Tiburones Rojos de Veracruz,MEXA,5138,110,2015,First tier  -,liga-mx-apertura,Mexico
+Universidad Concepción,CHLA,5622,33,2015,First tier  -,primera-division-apertura,Chile
+Universidad Concepción,CHL1,5622,33,2015,First tier  -,primera-division-clausura,Chile
+Monarcas Morelia,MEXA,5623,110,2015,First tier  -,liga-mx-apertura,Mexico
+Monarcas Morelia,POME,5623,110,2015,First tier  -,liguilla-clausura,Mexico
+Monarcas Morelia,MEX1,5623,110,2015,First tier  -,liga-mx-clausura,Mexico
+Puebla FC,MEX1,5662,110,2015,First tier  -,liga-mx-clausura,Mexico
+Puebla FC,MEXA,5662,110,2015,First tier  -,liga-mx-apertura,Mexico
+Club Plaza Colonia,URU1,6044,179,2015,First tier  -,primera-division-apertura,Uruguay
+Club Plaza Colonia,URUC,6044,179,2015,First tier  -,primera-division-clausura,Uruguay
+SD Aucas,ECPE,6362,44,2015,First tier  -,serie-a-primera-etapa,Ecuador
+SD Aucas,ECSE,6362,44,2015,First tier  -,serie-a-segunda-etapa,Ecuador
+Audax Italiano,CHL1,6363,33,2015,First tier  -,primera-division-clausura,Chile
+Audax Italiano,CHLA,6363,33,2015,First tier  -,primera-division-apertura,Chile
+Huachipato FC,CHL1,6368,33,2015,First tier  -,primera-division-clausura,Chile
+Huachipato FC,CHLA,6368,33,2015,First tier  -,primera-division-apertura,Chile
+Vegalta Sendai,JL11,6395,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Vegalta Sendai,JL12,6395,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+LD Alajuelense,PDV2,6478,36,2015,First tier  -,primera-division-verano-play-off-until-15-16-,Costa Rica
+LD Alajuelense,CRPV,6478,36,2015,First tier  -,primera-division-invierno-play-off-until-15-16-,Costa Rica
+LD Alajuelense,CRPD,6478,36,2015,First tier  -,primera-division-invierno,Costa Rica
+LD Alajuelense,PDV1,6478,36,2015,First tier  -,primera-division-verano,Costa Rica
+Atlético Bucaramanga,COL1,6495,83,2015,First tier  -,liga-aguila-ii,Colombia
+Atlético Bucaramanga,COLP,6495,83,2015,First tier  -,liga-aguila-i,Colombia
+CD Palestino,CHL1,6536,33,2015,First tier  -,primera-division-clausura,Chile
+CD Palestino,CHLA,6536,33,2015,First tier  -,primera-division-apertura,Chile
+Universitario de Deportes,PERC,6593,133,2015,First tier  -,torneo-descentralizado,Peru
+Universitario de Deportes,PEDI,6593,133,2015,First tier  -,torneo-descentralizado-liguilla-b,Peru
+Universitario de Deportes,PERF,6593,133,2015,First tier  -,torneo-descentralizado-play-offs,Peru
+FC Tokyo,JL12,6631,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+FC Tokyo,JL11,6631,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Kashiwa Reysol,JL12,6632,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+Kashiwa Reysol,JL11,6632,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Deportivo Guadalajara,MEXA,6711,110,2015,First tier  -,liga-mx-apertura,Mexico
+Deportivo Guadalajara,POME,6711,110,2015,First tier  -,liguilla-clausura,Mexico
+Deportivo Guadalajara,MEX1,6711,110,2015,First tier  -,liga-mx-clausura,Mexico
+Universidad César Vallejo,PERC,6889,133,2015,First tier  -,torneo-descentralizado,Peru
+Universidad César Vallejo,PEDP,6889,133,2015,First tier  -,torneo-descentralizado-liguilla-a,Peru
+Once Caldas,COL1,6984,83,2015,First tier  -,liga-aguila-ii,Colombia
+Once Caldas,COLP,6984,83,2015,First tier  -,liga-aguila-i,Colombia
+Tigres UANL,POME,7055,110,2015,First tier  -,liguilla-clausura,Mexico
+Tigres UANL,MEXA,7055,110,2015,First tier  -,liga-mx-apertura,Mexico
+Tigres UANL,MEX1,7055,110,2015,First tier  -,liga-mx-clausura,Mexico
+Envigado FC,COL1,7136,83,2015,First tier  -,liga-aguila-ii,Colombia
+Envigado FC,COLP,7136,83,2015,First tier  -,liga-aguila-i,Colombia
+Omiya Ardija,JL11,7452,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Omiya Ardija,JL12,7452,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+UNAM Pumas,MEX1,7633,110,2015,First tier  -,liga-mx-clausura,Mexico
+UNAM Pumas,MEXA,7633,110,2015,First tier  -,liga-mx-apertura,Mexico
+CFR Cluj,RO1R,7769,140,2015,First tier  -,liga-1-relegation-group,Romania
+CFR Cluj,RO1,7769,140,2015,First tier  -,liga-1,Romania
+Atlético Nacional,COLP,8172,83,2015,First tier  -,liga-aguila-i,Colombia
+Atlético Nacional,COL1,8172,83,2015,First tier  -,liga-aguila-ii,Colombia
+Aragua FC,VZ1A,8331,182,2015,First tier  -,torneo-apertura,Venezuela
+Aragua FC,VZ1C,8331,182,2015,First tier  -,torneo-clausura,Venezuela
+Albirex Niigata,JL11,8344,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Albirex Niigata,JL12,8344,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+Shonan Bellmare,JL12,8457,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+Shonan Bellmare,JL11,8457,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Atlas Guadalajara,MEXA,8590,110,2015,First tier  -,liga-mx-apertura,Mexico
+Atlas Guadalajara,MEX1,8590,110,2015,First tier  -,liga-mx-clausura,Mexico
+Municipal Pérez Zeledón,PDV1,8601,36,2015,First tier  -,primera-division-verano,Costa Rica
+Municipal Pérez Zeledón,CRPD,8601,36,2015,First tier  -,primera-division-invierno,Costa Rica
+Deportivo Cuenca,ECSE,8781,44,2015,First tier  -,serie-a-segunda-etapa,Ecuador
+Deportivo Cuenca,ECPE,8781,44,2015,First tier  -,serie-a-primera-etapa,Ecuador
+FC Botosani,RO1,8818,140,2015,First tier  -,liga-1,Romania
+FC Botosani,RO1R,8818,140,2015,First tier  -,liga-1-relegation-group,Romania
+Petrolul Ploiesti,RO1,9465,140,2015,First tier  -,liga-1,Romania
+Petrolul Ploiesti,RO1R,9465,140,2015,First tier  -,liga-1-relegation-group,Romania
+Avispa Fukuoka,JL12,9597,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+Avispa Fukuoka,JL11,9597,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Kawasaki Frontale,JL12,9598,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+Kawasaki Frontale,JL11,9598,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+LDU Quito,ECSE,9855,44,2015,First tier  -,serie-a-segunda-etapa,Ecuador
+LDU Quito,ECPE,9855,44,2015,First tier  -,serie-a-primera-etapa,Ecuador
+Deportivo Cali,COL1,9961,83,2015,First tier  -,liga-aguila-ii,Colombia
+Deportivo Cali,COLP,9961,83,2015,First tier  -,liga-aguila-i,Colombia
+Deportivo Pasto,COLP,10090,83,2015,First tier  -,liga-aguila-i,Colombia
+Deportivo Pasto,COL1,10090,83,2015,First tier  -,liga-aguila-ii,Colombia
+Dorados de Sinaloa,MEX1,10091,110,2015,First tier  -,liga-mx-clausura,Mexico
+Dorados de Sinaloa,MEXA,10091,110,2015,First tier  -,liga-mx-apertura,Mexico
+Independiente Medellín,COL1,10093,83,2015,First tier  -,liga-aguila-ii,Colombia
+Independiente Medellín,COLP,10093,83,2015,First tier  -,liga-aguila-i,Colombia
+Shakhter Karagandy,KAS1,10480,81,2015,First tier  -,premier-liga,Kazakhstan
+Shakhter Karagandy,KAZA,10480,81,2015,First tier  -,premier-league-relegation-playoff,Kazakhstan
+Tobol Kostanay,KAZA,10481,81,2015,First tier  -,premier-league-relegation-playoff,Kazakhstan
+Tobol Kostanay,KAS1,10481,81,2015,First tier  -,premier-liga,Kazakhstan
+Deportes Tolima,COLP,10503,83,2015,First tier  -,liga-aguila-i,Colombia
+Deportes Tolima,COL1,10503,83,2015,First tier  -,liga-aguila-ii,Colombia
+CA Rentistas,URUC,10632,179,2015,First tier  -,primera-division-clausura,Uruguay
+CA Rentistas,URU1,10632,179,2015,First tier  -,primera-division-apertura,Uruguay
+Liverpool FC Montevideo,URU1,10663,179,2015,First tier  -,primera-division-apertura,Uruguay
+Liverpool FC Montevideo,URUC,10663,179,2015,First tier  -,primera-division-clausura,Uruguay
+Ventforet Kofu,JL11,10999,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Ventforet Kofu,JL12,10999,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+CD O'Higgins,CHL1,11470,33,2015,First tier  -,primera-division-clausura,Chile
+CD O'Higgins,CHLA,11470,33,2015,First tier  -,primera-division-apertura,Chile
+Universidad San Martín de Porres,PERC,11622,133,2015,First tier  -,torneo-descentralizado,Peru
+Universidad San Martín de Porres,PEDI,11622,133,2015,First tier  -,torneo-descentralizado-liguilla-b,Peru
+Independiente Santa Fe,COLP,11648,83,2015,First tier  -,liga-aguila-i,Colombia
+Independiente Santa Fe,COL1,11648,83,2015,First tier  -,liga-aguila-ii,Colombia
+Junior FC,COLP,11854,83,2015,First tier  -,liga-aguila-i,Colombia
+Junior FC,COL1,11854,83,2015,First tier  -,liga-aguila-ii,Colombia
+Deportivo Táchira,VZ1C,13297,182,2015,First tier  -,torneo-clausura,Venezuela
+Deportivo Táchira,VZ1A,13297,182,2015,First tier  -,torneo-apertura,Venezuela
+Club Tijuana,MEXA,13353,110,2015,First tier  -,liga-mx-apertura,Mexico
+Club Tijuana,MEX1,13353,110,2015,First tier  -,liga-mx-clausura,Mexico
+Estudiantes de Mérida,VZ1A,14555,182,2015,First tier  -,torneo-apertura,Venezuela
+Estudiantes de Mérida,VZ1C,14555,182,2015,First tier  -,torneo-clausura,Venezuela
+CD Atlético Huila,COLP,14583,83,2015,First tier  -,liga-aguila-i,Colombia
+CD Atlético Huila,COL1,14583,83,2015,First tier  -,liga-aguila-ii,Colombia
+Monagas SC,VZ1A,14596,182,2015,First tier  -,torneo-apertura,Venezuela
+Monagas SC,VZ1C,14596,182,2015,First tier  -,torneo-clausura,Venezuela
+Boyacá Chicó FC,COLP,14649,83,2015,First tier  -,liga-aguila-i,Colombia
+Boyacá Chicó FC,COL1,14649,83,2015,First tier  -,liga-aguila-ii,Colombia
+Carabobo FC,VZ1A,14682,182,2015,First tier  -,torneo-apertura,Venezuela
+Carabobo FC,VZ1C,14682,182,2015,First tier  -,torneo-clausura,Venezuela
+Racing Club de Montevideo,URU1,14758,179,2015,First tier  -,primera-division-apertura,Uruguay
+Racing Club de Montevideo,URUC,14758,179,2015,First tier  -,primera-division-clausura,Uruguay
+CA Cerro,URU1,14806,179,2015,First tier  -,primera-division-apertura,Uruguay
+CA Cerro,URUC,14806,179,2015,First tier  -,primera-division-clausura,Uruguay
+Zhetysu Taldykorgan,KAS1,15299,81,2015,First tier  -,premier-liga,Kazakhstan
+Zhetysu Taldykorgan,KAZA,15299,81,2015,First tier  -,premier-league-relegation-playoff,Kazakhstan
+Concordia Chiajna,RO1,15945,140,2015,First tier  -,liga-1,Romania
+Concordia Chiajna,RO1R,15945,140,2015,First tier  -,liga-1-relegation-group,Romania
+FK Atyrau,KAS1,16198,81,2015,First tier  -,premier-liga,Kazakhstan
+FK Atyrau,KAZA,16198,81,2015,First tier  -,premier-league-relegation-playoff,Kazakhstan
+Mineros de Guayana,VZ1C,17194,182,2015,First tier  -,torneo-clausura,Venezuela
+Mineros de Guayana,VZ1A,17194,182,2015,First tier  -,torneo-apertura,Venezuela
+Club de Deportes Antofagasta,CHL1,17222,33,2015,First tier  -,primera-division-clausura,Chile
+Club de Deportes Antofagasta,CHLA,17222,33,2015,First tier  -,primera-division-apertura,Chile
+Trujillanos FC,VZ1C,17392,182,2015,First tier  -,torneo-clausura,Venezuela
+Trujillanos FC,VZ1A,17392,182,2015,First tier  -,torneo-apertura,Venezuela
+CD La Equidad,COLP,17425,83,2015,First tier  -,liga-aguila-i,Colombia
+CD La Equidad,COL1,17425,83,2015,First tier  -,liga-aguila-ii,Colombia
+Juventud de Las Piedras,URU1,17428,179,2015,First tier  -,primera-division-apertura,Uruguay
+Juventud de Las Piedras,URUC,17428,179,2015,First tier  -,primera-division-clausura,Uruguay
+Cortuluá,COLP,17467,83,2015,First tier  -,liga-aguila-i,Colombia
+Cortuluá,COL1,17467,83,2015,First tier  -,liga-aguila-ii,Colombia
+Club Alianza Atletico Sullana,PEDI,17479,133,2015,First tier  -,torneo-descentralizado-liguilla-b,Peru
+Club Alianza Atletico Sullana,PERC,17479,133,2015,First tier  -,torneo-descentralizado,Peru
+CD Cobresal,CHLA,17482,33,2015,First tier  -,primera-division-apertura,Chile
+CD Cobresal,CHL1,17482,33,2015,First tier  -,primera-division-clausura,Chile
+Llaneros de Guanare EF,VZ1C,17489,182,2015,First tier  -,torneo-clausura,Venezuela
+Llaneros de Guanare EF,VZ1A,17489,182,2015,First tier  -,torneo-apertura,Venezuela
+CD Universidad Católica,ECSE,17584,44,2015,First tier  -,serie-a-segunda-etapa,Ecuador
+CD Universidad Católica,ECPE,17584,44,2015,First tier  -,serie-a-primera-etapa,Ecuador
+Deportivo Municipal,PERC,17974,133,2015,First tier  -,torneo-descentralizado,Peru
+Deportivo Municipal,PEDP,17974,133,2015,First tier  -,torneo-descentralizado-liguilla-a,Peru
+Deportivo Municipal,PERF,17974,133,2015,First tier  -,torneo-descentralizado-play-offs,Peru
+Deportivo Anzoátegui SC,VZ1A,18006,182,2015,First tier  -,torneo-apertura,Venezuela
+Deportivo Anzoátegui SC,VZ1C,18006,182,2015,First tier  -,torneo-clausura,Venezuela
+Zamora FC,VZ1A,18018,182,2015,First tier  -,torneo-apertura,Venezuela
+Zamora FC,VZ1C,18018,182,2015,First tier  -,torneo-clausura,Venezuela
+Club Deportes Iquique,CHLA,18076,33,2015,First tier  -,primera-division-apertura,Chile
+Club Deportes Iquique,CHL1,18076,33,2015,First tier  -,primera-division-clausura,Chile
+El Tanque Sisley,URUC,18078,179,2015,First tier  -,primera-division-clausura,Uruguay
+El Tanque Sisley,URU1,18078,179,2015,First tier  -,primera-division-apertura,Uruguay
+Boyacá Patriotas FC,COLP,18231,83,2015,First tier  -,liga-aguila-i,Colombia
+Boyacá Patriotas FC,COL1,18231,83,2015,First tier  -,liga-aguila-ii,Colombia
+Belén FC,PDV1,18574,36,2015,First tier  -,primera-division-verano,Costa Rica
+Belén FC,CRPD,18574,36,2015,First tier  -,primera-division-invierno,Costa Rica
+Belén FC,PDV2,18574,36,2015,First tier  -,primera-division-verano-play-off-until-15-16-,Costa Rica
+AD Carmelita,PDV1,18575,36,2015,First tier  -,primera-division-verano,Costa Rica
+AD Carmelita,CRPD,18575,36,2015,First tier  -,primera-division-invierno,Costa Rica
+CS Cartaginés,PDV1,18577,36,2015,First tier  -,primera-division-verano,Costa Rica
+CS Cartaginés,CRPD,18577,36,2015,First tier  -,primera-division-invierno,Costa Rica
+AD Municipal Liberia,CRPD,18579,36,2015,First tier  -,primera-division-invierno,Costa Rica
+AD Municipal Liberia,PDV1,18579,36,2015,First tier  -,primera-division-verano,Costa Rica
+CD San Luis de Quillota,CHLA,19280,33,2015,First tier  -,primera-division-apertura,Chile
+CD San Luis de Quillota,CHL1,19280,33,2015,First tier  -,primera-division-clausura,Chile
+Delfín SC,ECPE,19304,44,2015,First tier  -,serie-a-primera-etapa,Ecuador
+Delfín SC,ECSE,19304,44,2015,First tier  -,serie-a-segunda-etapa,Ecuador
+Independiente del Valle,ECSE,19309,44,2015,First tier  -,serie-a-segunda-etapa,Ecuador
+Independiente del Valle,ECPE,19309,44,2015,First tier  -,serie-a-primera-etapa,Ecuador
+Zulia FC,VZ1A,19396,182,2015,First tier  -,torneo-apertura,Venezuela
+Zulia FC,VZ1C,19396,182,2015,First tier  -,torneo-clausura,Venezuela
+Unión La Calera,CHLA,20514,33,2015,First tier  -,primera-division-apertura,Chile
+Unión La Calera,CHL1,20514,33,2015,First tier  -,primera-division-clausura,Chile
+Santos de Guápiles FC,CRPD,20541,36,2015,First tier  -,primera-division-invierno,Costa Rica
+Santos de Guápiles FC,PDV1,20541,36,2015,First tier  -,primera-division-verano,Costa Rica
+Rionegro Águilas,COLP,20590,83,2015,First tier  -,liga-aguila-i,Colombia
+Rionegro Águilas,COL1,20590,83,2015,First tier  -,liga-aguila-ii,Colombia
+UTC Cajamarca,PEDI,21170,133,2015,First tier  -,torneo-descentralizado-liguilla-b,Peru
+UTC Cajamarca,PERC,21170,133,2015,First tier  -,torneo-descentralizado,Peru
+Ayacucho FC,PEDI,21178,133,2015,First tier  -,torneo-descentralizado-liguilla-b,Peru
+Ayacucho FC,PERC,21178,133,2015,First tier  -,torneo-descentralizado,Peru
+Sport Huancayo,PERC,21655,133,2015,First tier  -,torneo-descentralizado,Peru
+Sport Huancayo,PEDI,21655,133,2015,First tier  -,torneo-descentralizado-liguilla-b,Peru
+Sagan Tosu,JL11,22177,77,2015,First tier  -,meiji-yasuda-j1-league-first-stage,Japan
+Sagan Tosu,JL12,22177,77,2015,First tier  -,meiji-yasuda-j1-league-second-stage,Japan
+Alianza Petrolera,COL1,22902,83,2015,First tier  -,liga-aguila-ii,Colombia
+Alianza Petrolera,COLP,22902,83,2015,First tier  -,liga-aguila-i,Colombia
+Portuguesa FC,VZ1A,22918,182,2015,First tier  -,torneo-apertura,Venezuela
+Portuguesa FC,VZ1C,22918,182,2015,First tier  -,torneo-clausura,Venezuela
+FK Taraz,KAZA,22994,81,2015,First tier  -,premier-league-relegation-playoff,Kazakhstan
+FK Taraz,KAS1,22994,81,2015,First tier  -,premier-liga,Kazakhstan
+CD San Marcos de Arica,CHLA,23162,33,2015,First tier  -,primera-division-apertura,Chile
+CD San Marcos de Arica,CHL1,23162,33,2015,First tier  -,primera-division-clausura,Chile
+Universidad de Costa Rica,CRPD,23609,36,2015,First tier  -,primera-division-invierno,Costa Rica
+Universidad de Costa Rica,PDV1,23609,36,2015,First tier  -,primera-division-verano,Costa Rica
+Deportivo Lara,VZ1A,25380,182,2015,First tier  -,torneo-apertura,Venezuela
+Deportivo Lara,VZ1C,25380,182,2015,First tier  -,torneo-clausura,Venezuela
+CD River Plate Ecuador,ECSE,25569,44,2015,First tier  -,serie-a-segunda-etapa,Ecuador
+CD River Plate Ecuador,ECPE,25569,44,2015,First tier  -,serie-a-primera-etapa,Ecuador
+Mushuc Runa SC,ECSE,25576,44,2015,First tier  -,serie-a-segunda-etapa,Ecuador
+Mushuc Runa SC,ECPE,25576,44,2015,First tier  -,serie-a-primera-etapa,Ecuador
+Fuerza Amarilla SC,ECPE,25715,44,2015,First tier  -,serie-a-primera-etapa,Ecuador
+Fuerza Amarilla SC,ECSE,25715,44,2015,First tier  -,serie-a-segunda-etapa,Ecuador
+Limón FC,CRPV,26103,36,2015,First tier  -,primera-division-invierno-play-off-until-15-16-,Costa Rica
+Limón FC,CRPD,26103,36,2015,First tier  -,primera-division-invierno,Costa Rica
+Limón FC,PDV1,26103,36,2015,First tier  -,primera-division-verano,Costa Rica
+Estudiantes de Caracas SC,VZ1C,26408,182,2015,First tier  -,torneo-clausura,Venezuela
+Estudiantes de Caracas SC,VZ1A,26408,182,2015,First tier  -,torneo-apertura,Venezuela
+Deportivo La Guaira,VZ1A,26468,182,2015,First tier  -,torneo-apertura,Venezuela
+Deportivo La Guaira,VZ1C,26468,182,2015,First tier  -,torneo-clausura,Venezuela
+Akzhayik Uralsk,KAZA,28178,81,2015,First tier  -,premier-league-relegation-playoff,Kazakhstan
+Akzhayik Uralsk,KAS1,28178,81,2015,First tier  -,premier-liga,Kazakhstan
+Club Atlético Villa Teresa,URU1,28665,179,2015,First tier  -,primera-division-apertura,Uruguay
+Club Atlético Villa Teresa,URUC,28665,179,2015,First tier  -,primera-division-clausura,Uruguay
+Real Garcilaso,PEDP,28999,133,2015,First tier  -,torneo-descentralizado-liguilla-a,Peru
+Real Garcilaso,PERC,28999,133,2015,First tier  -,torneo-descentralizado,Peru
+Petare FC,VZ1C,29750,182,2015,First tier  -,torneo-clausura,Venezuela
+Petare FC,VZ1A,29750,182,2015,First tier  -,torneo-apertura,Venezuela
+Ureña SC,VZ1A,30500,182,2015,First tier  -,torneo-apertura,Venezuela
+Ureña SC,VZ1C,30500,182,2015,First tier  -,torneo-clausura,Venezuela
+Atlético Venezuela,VZ1A,30504,182,2015,First tier  -,torneo-apertura,Venezuela
+Atlético Venezuela,VZ1C,30504,182,2015,First tier  -,torneo-clausura,Venezuela
+CD Unión Comercio,PERC,31337,133,2015,First tier  -,torneo-descentralizado,Peru
+CD Unión Comercio,PEDP,31337,133,2015,First tier  -,torneo-descentralizado-liguilla-a,Peru
+Fortaleza FC,COLP,32041,83,2015,First tier  -,liga-aguila-i,Colombia
+Fortaleza FC,COL1,32041,83,2015,First tier  -,liga-aguila-ii,Colombia
+CSMS Iasi,RO1R,33966,140,2015,First tier  -,liga-1-relegation-group,Romania
+CSMS Iasi,RO1,33966,140,2015,First tier  -,liga-1,Romania
+CS Uruguay de Coronado,CRPD,35060,36,2015,First tier  -,primera-division-invierno,Costa Rica
+CS Uruguay de Coronado,PDV1,35060,36,2015,First tier  -,primera-division-verano,Costa Rica
+ACS Poli Timisoara,RO1,36590,140,2015,First tier  -,liga-1,Romania
+ACS Poli Timisoara,RO1R,36590,140,2015,First tier  -,liga-1-relegation-group,Romania
+Jaguares de Córdoba,COLP,39252,83,2015,First tier  -,liga-aguila-i,Colombia
+Jaguares de Córdoba,COL1,39252,83,2015,First tier  -,liga-aguila-ii,Colombia
+CS U Craiova,RO1,40812,140,2015,First tier  -,liga-1,Romania
+CS U Craiova,RO1R,40812,140,2015,First tier  -,liga-1-relegation-group,Romania
+FC Voluntari,RO1R,40843,140,2015,First tier  -,liga-1-relegation-group,Romania
+FC Voluntari,RO1,40843,140,2015,First tier  -,liga-1,Romania
+Deportivo JBL del Zulia,VZ1C,43159,182,2015,First tier  -,torneo-clausura,Venezuela
+Deportivo JBL del Zulia,VZ1A,43159,182,2015,First tier  -,torneo-apertura,Venezuela
+Comerciantes Unidos,PERC,47107,133,2015,First tier  -,torneo-descentralizado,Peru
+Comerciantes Unidos,PEDI,47107,133,2015,First tier  -,torneo-descentralizado-liguilla-b,Peru
+Defensor La Bocana,PEDP,51896,133,2015,First tier  -,torneo-descentralizado-liguilla-a,Peru
+Defensor La Bocana,PERC,51896,133,2015,First tier  -,torneo-descentralizado,Peru
